@@ -3,8 +3,6 @@ permalink: /
 title: "Contact"
 author_profile: #false
 layout: splash
-header:
-  overlay_color: "#fff !important"
 #sidebar:
 #  nav: "docs"
 ---
