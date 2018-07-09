@@ -6,13 +6,18 @@ layout: splash
 #sidebar:
 #  nav: "docs"
 ---
+# Blog
+- [VoxEU](#vox)
+- [Foco Economico](#foco)
 
-# [VoxEU](http://voxeu.org/){:target="_blank"}
+---
+
+## [VoxEU](http://voxeu.org/){:target="_blank"} <a name="vox"></a>
 1. **The tail that wags the economy: The origin of secular stagnation**
     [post](http://voxeu.org/article/origin-secular-stagnation){:target="_blank"}, September 2016, with Laura Veldkamp and Venky Venkateswaran
 
 ***
-# [Foco Economico](http://focoeconomico.org/){:target="_blank"} (in Spanish)
+## [Foco Economico](http://focoeconomico.org/){:target="_blank"} (in Spanish) <a name="foco"></a>
 
 1. **¿Qué hacen los jóvenes?**
     [post](http://focoeconomico.org/2014/11/16/que-hacen-los-jovenes/){:target="_blank"}, November 2014, with Andy Neumeyer
