@@ -17,6 +17,3 @@ This summer I'll be an Economist in the Research Division of the [Federal Reserv
 **Contact at** <kozjuli@gmail.com>
 
 [*Curriculum Vitae*](https://www.dropbox.com/s/52ccq5t0yez8gpq/Kozlowski_cv.pdf){:target="_blank"} // [Google scholar](https://scholar.google.com/citations?user=HJ8wVrQAAAAJ&hl){:target="_blank"} // [Repec profile](https://ideas.repec.org/f/pko790.html){:target="_blank"}
-
-
-
