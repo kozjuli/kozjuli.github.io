@@ -12,6 +12,8 @@ layout: splash
 1. **The Tail that Keeps the Riskless Rate Low**
  
     with Laura Veldkamp and Venky Venkateswaran, 2018 NBER Macroeconomics Annual.
+
+    [working paper](https://www.dropbox.com/s/fkuhrt8mqs0ny7a/KVV_InterestRate.pdf)
  
     The 2008 financial crisis was an unlikely event led us to re-assess the probability of tail events. The knowledge that such an event can happen raises the value of riskless assets for many years.
 
@@ -19,6 +21,8 @@ layout: splash
 2. **Investment and Bilateral Insurance**
  
     with Emilio Espino and Juan Sanchez, working paper, Journal of Economic Theory, July 2018.
+
+    [working paper](https://www.dropbox.com/s/fq4v5ykkip743qw/EKS.pdf), [publication](https://www.sciencedirect.com/science/article/pii/S002205311830098X)
  
     Private information may limit insurance possibilities when two agents get together to pool idiosyncratic risk. However, if there is capital accumulation, bilateral insurance possibilities improve because misreporting distorts investment. 
 
@@ -28,22 +32,30 @@ layout: splash
  
     with Laura Veldkamp and Venky Venkateswaran, March 2018 paper, Third round at Journal of Political Economy.
 
+    [working paper](https://www.dropbox.com/s/d2l00ql64ptkgwv/KVV.pdf)
+
     The great recession has been more persistent than others because observing an unlikely event led us to re-assess the probability of tail events. This change in beliefs endures long after the event itself has passed.
 
 
 2. **Long-Term Finance and Investment with Frictional Asset Markets**
+
+    [working paper](https://www.dropbox.com/s/tr3c7ovmdzzy174/KOZLOWSKI_JMP.pdf)
 
     Trading frictions in financial markets lead to a liquidity spread which increases with maturity and generates an upward sloping yield curve. Hence, trading frictions induce firms to borrow and invest at shorter horizons. Reductions in trading frictions—a new channel of financial development—can promote economic development.
 
 
 3. **Explaining Income Inequality and Social Mobility: The Role of Fertility and Family Transfers**
 
-    with Diego Daruich, November 2016 paper
+    with Diego Daruich
+
+    [working paper](https://www.dropbox.com/s/ma7r65mc10w15ip/DK.pdf)
 
     Poor families have more children and transfer fewer resources to them. This suggests that family decisions about fertility and transfers increase income inequality and dampen intergenerational mobility. The model, estimated to the US in the 2000s, implies that a counterfactual flat income-fertility profile would reduce intergenerational persistence and income inequality by about 10%. 
  
 4. **Retail Prices: New Evidence From Argentina**
 
     with Diego Daruich
+
+    [working paper](https://www.dropbox.com/s/nbgs7i4yivpbeoq/DK_prices.pdf)
 
     We create a new database of retail prices in Argentina with over 10 million observations per day. Our main novel finding is that chains, rather than stores, explain most of the price variation.
