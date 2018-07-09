@@ -2,7 +2,7 @@
 permalink: /
 title: "Home"
 author_profile: #false
-layout: home
+layout: single
 #sidebar:
 #  nav: "docs"
 ---
