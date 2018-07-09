@@ -12,7 +12,7 @@ layout: splash
 
 I graduated from New York University with a Ph.D. in Economics in May 2018.
 
-This summer I'll be an Economist in the Research Division of the [Federal Reserve Bank of St. Louis](https://research.stlouisfed.org/).
+This summer I'll be an Economist in the Research Division of the [Federal Reserve Bank of St. Louis](https://research.stlouisfed.org/){:target="_blank"}.
 
 [**Curriculum Vitae**](https://www.dropbox.com/s/52ccq5t0yez8gpq/Kozlowski_cv.pdf)
 
