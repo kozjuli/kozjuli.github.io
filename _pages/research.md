@@ -7,8 +7,12 @@ layout: splash
 #  nav: "docs"
 ---
 
+# Research
+- [Publications](#publications)
+- [Working papers](#wp)
 
-# Publications
+---
+## Publications <a name="publications"></a>
 1. **The Tail that Keeps the Riskless Rate Low**, with Laura Veldkamp and Venky Venkateswaran, *NBER Macroeconomics Annual 2018, volume 33*. [Publication](http://www.nber.org/chapters/c14073){:target="_blank"}
  
     > The 2008 financial crisis was an unlikely event led us to re-assess the probability of tail events. The knowledge that such an event can happen raises the value of riskless assets for many years.
@@ -18,8 +22,8 @@ layout: splash
  
     > Private information may limit insurance possibilities when two agents get together to pool idiosyncratic risk. However, if there is capital accumulation, bilateral insurance possibilities improve because misreporting distorts investment. 
 
-
-# Working Papers
+---
+## Working Papers <a name="wp"></a>
 1. **The Tail that Wags the Economy: Belief-Driven Business Cycles and Persistent Stagnation**, with Laura Veldkamp and Venky Venkateswaran, Third round at *Journal of Political Economy*. [March 2018 working paper](http://www.juliankozlowski.com/papers/KVV.pdf){:target="_blank"}
 
     > The great recession has been more persistent than others because observing an unlikely event led us to re-assess the probability of tail events. This change in beliefs endures long after the event itself has passed.
