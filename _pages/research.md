@@ -18,7 +18,7 @@ layout: splash
 
 2. **Investment and Bilateral Insurance**
  
-    with Emilio Espino and Juan Sanchez, *Journal of Economic Theory, Volume 176, July 2018, Pages 311-341*. [Publication](https://www.sciencedirect.com/science/article/pii/S002205311830098X){:target="_blank"}, [extended working paper](https://www.dropbox.com/s/fq4v5ykkip743qw/EKS.pdf){:target="_blank"}, 
+    with Emilio Espino and Juan Sanchez, *Journal of Economic Theory, Volume 176, July 2018, Pages 311-341*. [Publication](https://www.sciencedirect.com/science/article/pii/S002205311830098X){:target="_blank"}, [extended working paper](https://www.dropbox.com/s/fq4v5ykkip743qw/EKS.pdf){:target="_blank"}
  
     Private information may limit insurance possibilities when two agents get together to pool idiosyncratic risk. However, if there is capital accumulation, bilateral insurance possibilities improve because misreporting distorts investment. 
 
