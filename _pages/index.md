@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home"
+title: "Contact"
 author_profile: #false
 layout: splash
 #sidebar:
