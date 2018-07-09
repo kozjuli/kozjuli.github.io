@@ -6,7 +6,7 @@ layout: splash
 #sidebar:
 #  nav: "docs"
 ---
-<img style="float: right;" src="/assets/kozjuli.jpg" =6x6>
+<img style="float: right;" src="/assets/kozjuli.jpg" width="350">
 
 
 I am an Economist in the Research Division of the [Federal Reserve Bank of St. Louis](https://research.stlouisfed.org/).
