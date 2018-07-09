@@ -16,4 +16,4 @@ This summer I'll start as an Economist in the Research Division of the [Federal 
 
 **Contact at** <kozjuli@gmail.com>
 
-[*Curriculum Vitae*](http://www.juliankozlowski.com/papers/Kozlowski_cv.pdf){:target="_blank"} // [Google scholar](https://scholar.google.com/citations?user=HJ8wVrQAAAAJ&hl){:target="_blank"} // [Repec profile](https://ideas.repec.org/f/pko790.html){:target="_blank"} // [St. Louis Fed page](https://research.stlouisfed.org/econ/kozlowski/){:target="_blank"}
+[*Curriculum Vitae*](http://www.juliankozlowski.com/papers/Kozlowski_cv.pdf){:target="_blank"} // [Google scholar](https://scholar.google.com/citations?user=HJ8wVrQAAAAJ&hl){:target="_blank"} // [Repec](https://ideas.repec.org/f/pko790.html){:target="_blank"} // [St. Louis Fed page](https://research.stlouisfed.org/econ/kozlowski/){:target="_blank"}
