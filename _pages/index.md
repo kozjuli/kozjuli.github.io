@@ -10,9 +10,9 @@ layout: splash
 <img style="float: right;" src="/assets/kozjuli.jpg" width="250">
 
 
-I graduated from New York University with a Ph.D. in Economics in May 2018.
+I am an Economist in the Research Division of the [Federal Reserve Bank of St. Louis](https://research.stlouisfed.org/){:target="_blank"}.
 
-This summer I'll start as an Economist in the Research Division of the [Federal Reserve Bank of St. Louis](https://research.stlouisfed.org/){:target="_blank"}.
+I graduated from New York University with a Ph.D. in Economics in May 2018.
 
 Contact at <kozjuli@gmail.com>
 
