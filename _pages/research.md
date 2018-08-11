@@ -10,6 +10,7 @@ layout: splash
 # Research
 - [Publications](#publications)
 - [Working papers](#wp)
+- [Discussions](#discussions)
 
 ---
 ## Publications <a name="publications"></a>
@@ -24,20 +25,27 @@ layout: splash
 
 ---
 ## Working Papers <a name="wp"></a>
-1. **The Tail that Wags the Economy: Belief-Driven Business Cycles and Persistent Stagnation**, with Laura Veldkamp and Venky Venkateswaran, Third round at *Journal of Political Economy*. [March 2018 working paper](http://www.juliankozlowski.com/papers/KVV.pdf){:target="_blank"}
+3. **The Tail that Wags the Economy: Belief-Driven Business Cycles and Persistent Stagnation**, with Laura Veldkamp and Venky Venkateswaran, Third round at *Journal of Political Economy*. [March 2018 working paper](http://www.juliankozlowski.com/papers/KVV.pdf){:target="_blank"}
 
     > The great recession has been more persistent than others because observing an unlikely event led us to re-assess the probability of tail events. This change in beliefs endures long after the event itself has passed.
 
 
-2. **Long-Term Finance and Investment with Frictional Asset Markets**, [July 2018 working paper](http://www.juliankozlowski.com/papers/KOZLOWSKI_JMP.pdf){:target="_blank"}
+4. **Long-Term Finance and Investment with Frictional Asset Markets**, [July 2018 working paper](http://www.juliankozlowski.com/papers/KOZLOWSKI_JMP.pdf){:target="_blank"}
 
     > Trading frictions in financial markets lead to a liquidity spread which increases with maturity and generates an upward sloping yield curve. Hence, trading frictions induce firms to borrow and invest at shorter horizons. Reductions in trading frictions—a new channel of financial development—can promote economic development.
 
 
-3. **Explaining Income Inequality and Social Mobility: The Role of Fertility and Family Transfers**, with Diego Daruich. [2016 working paper](http://www.juliankozlowski.com/papers/DK.pdf){:target="_blank"}
+5. **Explaining Income Inequality and Social Mobility: The Role of Fertility and Family Transfers**, with Diego Daruich. [2016 working paper](http://www.juliankozlowski.com/papers/DK.pdf){:target="_blank"}
 
     > Poor families have more children and transfer fewer resources to them. This suggests that family decisions about fertility and transfers increase income inequality and dampen intergenerational mobility. The model, estimated to the US in the 2000s, implies that a counterfactual flat income-fertility profile would reduce intergenerational persistence and income inequality by about 10%. 
  
-4. **Retail Prices: New Evidence From Argentina**, with Diego Daruich. [2017 working paper](http://www.juliankozlowski.com/papers/DK_prices.pdf){:target="_blank"}
+6. **Retail Prices: New Evidence From Argentina**, with Diego Daruich. [2017 working paper](http://www.juliankozlowski.com/papers/DK_prices.pdf){:target="_blank"}
 
     > We create a new database of retail prices in Argentina with over 10 million observations per day. Our main novel finding is that chains, rather than stores, explain most of the price variation.
+
+
+   
+ ---
+## Discussions <a name="discussions"></a>
+
+- **Beauty Contests and the Term Structure** by Martin Ellison and Andreas Tischbirek, Expectations in Dynamic Macroeconomics Model August 2018, [Discussion](http://www.juliankozlowski.com/papers/Discussion_EllisonTischbirekz.pdf){:target="_blank"}
