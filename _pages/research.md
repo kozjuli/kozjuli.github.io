@@ -35,9 +35,9 @@ layout: splash
     > Trading frictions in financial markets lead to a liquidity spread which increases with maturity and generates an upward sloping yield curve. Hence, trading frictions induce firms to borrow and invest at shorter horizons. Reductions in trading frictions—a new channel of financial development—can promote economic development.
 
 
-5. **Explaining Income Inequality and Social Mobility: The Role of Fertility and Family Transfers**, with Diego Daruich. [2016 working paper](http://www.juliankozlowski.com/papers/DK.pdf){:target="_blank"}
+5. **Explaining Intergenerational Mobility: The Role of Fertility and Family Transfers**, with Diego Daruich. [2018 working paper](https://s3.amazonaws.com/real.stlouisfed.org/wp/2018/2018-011.pdf){:target="_blank"}
 
-    > Poor families have more children and transfer fewer resources to them. This suggests that family decisions about fertility and transfers increase income inequality and dampen intergenerational mobility. The model, estimated to the US in the 2000s, implies that a counterfactual flat income-fertility profile would reduce intergenerational persistence and income inequality by about 10%. 
+    > Poor families have more children and transfer fewer resources to them. This suggests that family decisions about fertility and transfers can dampen intergenerational mobility. The model, estimated to the US in the 2000s, implies that a counterfactual flat income-fertility profile would reduce intergenerational persistence by about 7%.
  
 6. **Retail Prices: New Evidence From Argentina**, with Diego Daruich. [2017 working paper](http://www.juliankozlowski.com/papers/DK_prices.pdf){:target="_blank"}
 
