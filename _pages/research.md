@@ -30,7 +30,7 @@ layout: splash
     > The great recession has been more persistent than others because observing an unlikely event led us to re-assess the probability of tail events. This change in beliefs endures long after the event itself has passed.
 
 
-4. **Long-Term Finance and Investment with Frictional Asset Markets**, [July 2018 working paper](http://www.juliankozlowski.com/papers/KOZLOWSKI_JMP.pdf){:target="_blank"}
+4. **Long-Term Finance and Investment with Frictional Asset Markets**, [October 2018 working paper](https://s3.amazonaws.com/real.stlouisfed.org/wp/2018/2018-012.pdf){:target="_blank"}
 
     > Trading frictions in financial markets lead to a liquidity spread which increases with maturity and generates an upward sloping yield curve. Hence, trading frictions induce firms to borrow and invest at shorter horizons. Reductions in trading frictions—a new channel of financial development—can promote economic development.
 
