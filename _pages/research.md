@@ -8,9 +8,7 @@ layout: splash
 ---
 
 # Research
-- [Publications](#publications)
-- [Working papers](#wp)
-- [Discussions](#discussions)
+ [Publications](#publications)     [Working papers](#wp)     [Discussions](#discussions)
 
 ---
 ## Publications <a name="publications"></a>
@@ -49,3 +47,5 @@ layout: splash
 ## Discussions <a name="discussions"></a>
 
 - **Beauty Contests and the Term Structure** by Martin Ellison and Andreas Tischbirek, Expectations in Dynamic Macroeconomics Model August 2018, [Discussion](http://www.juliankozlowski.com/papers/Discussion_EllisonTischbirekz.pdf){:target="_blank"}
+
+- **Credit Shocks and Equilibrium Dynamics in Consumer Durable Goods Markets** by Alessandro Gavazza and Andrea Lanteri, Southern Economic Association November 2018, [Discussion](http://www.juliankozlowski.com/papers/Discussion_GavazzaLanteri18.pdf){:target="_blank"}

@@ -7,8 +7,7 @@ layout: splash
 #  nav: "docs"
 ---
 # Blog
-- [VoxEU](#vox)
-- [Foco Economico](#foco)
+[VoxEU](#vox)     [Foco Economico](#foco)
 
 ---
 
