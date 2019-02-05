@@ -23,7 +23,7 @@ layout: splash
 
 ---
 ## Working Papers <a name="wp"></a>
-3. **The Tail that Wags the Economy: Belief-Driven Business Cycles and Persistent Stagnation**, with Laura Veldkamp and Venky Venkateswaran, Third round at *Journal of Political Economy*. [March 2018 working paper](http://www.juliankozlowski.com/papers/KVV.pdf){:target="_blank"}
+3. **The Tail that Wags the Economy: Belief-Driven Business Cycles and Persistent Stagnation**, with Laura Veldkamp and Venky Venkateswaran, Third round at *Journal of Political Economy*. [February 2019 working paper](http://www.juliankozlowski.com/papers/KVV.pdf){:target="_blank"}
 
     > The great recession has been more persistent than others because observing an unlikely event led us to re-assess the probability of tail events. This change in beliefs endures long after the event itself has passed.
 
@@ -37,7 +37,7 @@ layout: splash
 
     > Poor families have more children and transfer fewer resources to them. This suggests that family decisions about fertility and transfers can dampen intergenerational mobility. The model, estimated to the US in the 2000s, implies that a counterfactual flat income-fertility profile would reduce intergenerational persistence by about 7%.
  
-6. **Retail Prices: New Evidence From Argentina**, with Diego Daruich. [2017 working paper](http://www.juliankozlowski.com/papers/DK_prices.pdf){:target="_blank"}
+6. **Retail Prices: New Evidence From Argentina**, with Diego Daruich. New version coming soon!
 
     > We create a new database of retail prices in Argentina with over 10 million observations per day. Our main novel finding is that chains, rather than stores, explain most of the price variation.
 
