@@ -28,7 +28,7 @@ layout: splash
     > The great recession has been more persistent than others because observing an unlikely event led us to re-assess the probability of tail events. This change in beliefs endures long after the event itself has passed.
 
 
-4. **Explaining Intergenerational Mobility: The Role of Fertility and Family Transfers**, with Diego Daruich, R&R  at *Review of Economics Dynamics* [October 2018 working paper](https://s3.amazonaws.com/real.stlouisfed.org/wp/2018/2018-011.pdf){:target="_blank"}
+4. **Explaining Intergenerational Mobility: The Role of Fertility and Family Transfers**, with Diego Daruich, R&R  at *Review of Economics Dynamics* [April 2019 working paper](http://www.juliankozlowski.com/papers/DK.pdf){:target="_blank"}
 
     > Poor families have more children and transfer fewer resources to them. This suggests that family decisions about fertility and transfers can dampen intergenerational mobility. The model, estimated to the US in the 2000s, implies that a counterfactual flat income-fertility profile would reduce intergenerational persistence by about 7%.
 
