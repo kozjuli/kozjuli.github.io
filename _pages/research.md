@@ -33,7 +33,7 @@ layout: splash
     > Poor families have more children and transfer fewer resources to them. This suggests that family decisions about fertility and transfers can dampen intergenerational mobility. The model, estimated to the US in the 2000s, implies that a counterfactual flat income-fertility profile would reduce intergenerational persistence by about 7%.
 
 
-5. **Long-Term Finance and Investment with Frictional Asset Markets**, [October 2018 working paper](https://s3.amazonaws.com/real.stlouisfed.org/wp/2018/2018-012.pdf){:target="_blank"}, [slides](http://www.juliankozlowski.com/papers/Kozlowski_2018_Fuqua.pdf){:target="_blank"}
+5. **Long-Term Finance and Investment with Frictional Asset Markets**, [May 2019 working paper](http://www.juliankozlowski.com/papers/Kozlowski_Inv_2019_latest.pdf){:target="_blank"}
 
     > Trading frictions in financial markets lead to a liquidity spread which increases with maturity and generates an upward sloping yield curve. Hence, trading frictions induce firms to borrow and invest at shorter horizons. Reductions in trading frictions—a new channel of financial development—can promote economic development.
 
