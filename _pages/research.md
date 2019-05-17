@@ -35,7 +35,7 @@ layout: splash
 
 5. **Long-Term Finance and Investment with Frictional Asset Markets**, [May 2019 working paper](http://www.juliankozlowski.com/papers/Kozlowski_Inv_2019_latest.pdf){:target="_blank"}
 
-    > Trading frictions in financial markets lead to a liquidity spread which increases with maturity and generates an upward sloping yield curve. Hence, trading frictions induce firms to borrow and invest at shorter horizons. Reductions in trading frictions—a new channel of financial development—can promote economic development.
+    > Trading frictions in financial markets lead to a liquidity spread which increases with maturity and generates an upward sloping yield curve. Hence, trading frictions induce firms to borrow and invest at shorter horizons. Reductions in trading frictions—a new channel of financial development—can promote economic development. We use insights from the theory to measure the slope of liquidity spreads in the data.
 
  
 6.  **Uniform Pricing Within and Across Regions: New Evidence from Argentina**, with Diego Daruich. [April 2019 working paper](http://www.juliankozlowski.com/papers/DK_prices_2019_latest.pdf){:target="_blank"}
