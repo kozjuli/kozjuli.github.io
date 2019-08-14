@@ -16,10 +16,12 @@ layout: splash
 
 ***
 ## [St Louis Fed](https://www.stlouisfed.org/publications/){:target="_blank"} <a name="frbstl"></a>
-1. **What Is Driving Student Debt in the Eighth District?**
+1. **Tail Risk** Economic Synopses, [Part 1](https://research.stlouisfed.org/publications/economic-synopses/2019/08/05/tail-risk-part-1-the-persistent-effects-of-the-great-recession){:target="_blank"}, [Part 2](https://research.stlouisfed.org/publications/economic-synopses/2019/08/06/tail-risk-part-2-the-missing-recovery-after-the-great-recession){:target="_blank"}, [Part 3](https://research.stlouisfed.org/publications/economic-synopses/2019/08/07/tail-risk-part-3-the-return-on-safe-and-liquid-assets){:target="_blank"} August 2019
+
+2. **What Is Driving Student Debt in the Eighth District?**
     [Regional Economist](https://www.stlouisfed.org/publications/regional-economist/second-quarter-2019/driving-student-debt){:target="_blank"}, June 2019, with Mahdi Ebsim
 
-2. **The Maturity Structure of Treasuries Held by the Fed**
+3. **The Maturity Structure of Treasuries Held by the Fed**
     [On the Economy Blog](https://www.stlouisfed.org/on-the-economy/2019/may/fed-maturity-contraction-program){:target="_blank"}, May 2019
 
 ***
