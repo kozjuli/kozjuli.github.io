@@ -38,9 +38,9 @@ layout: splash
     > Trading frictions in financial markets lead to a liquidity spread which increases with maturity and generates an upward sloping yield curve. Hence, trading frictions induce firms to borrow and invest at shorter horizons. Reductions in trading frictions—a new channel of financial development—can promote economic development. We use insights from the theory to measure the slope of liquidity spreads in the data.
 
  
-6.  **Uniform Pricing Within and Across Regions: New Evidence from Argentina**, with Diego Daruich. [April 2019 working paper](http://www.juliankozlowski.com/papers/DK_prices_2019_latest.pdf){:target="_blank"}
+6.  **Macroeconomic Implications of Uniform Pricing**, with Diego Daruich. [September 2019 working paper](http://www.juliankozlowski.com/papers/DK_prices_2019_latest.pdf){:target="_blank"}
 
-    > We create a new database of retail prices in Argentina with over 9 million observations per day. Our main novel finding is that chains, rather than stores, explain most of the price variation. The model shows that consumers prefer uniform to flexible-pricing. We find a one-third larger elasticity of consumption to a regional than an aggregate shock due to the presence of uniform pricing.
+    > We introduce novel data from Argentina and show that there is uniform pricing (chains set the same prices across stores both within and across regions), and prices react relatively little to local conditions. We build a model to understand the macroeconomic implications of uniform pricing. Our key finding is that consumption aggregate elasticities tend to be smaller than local elasticities, as prices react more to aggregate conditions when prices are set uniformly across regions.
 
 
    
