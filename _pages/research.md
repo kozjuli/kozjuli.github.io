@@ -32,19 +32,19 @@ with Emilio Espino and Juan Sanchez, *Journal of Economic Theory 2018, vol. 176*
 ---
 ## Working Papers <a name="wp"></a>
 4. **Explaining Intergenerational Mobility: The Role of Fertility and Family Transfers**, 
-with Diego Daruich, R&R  at *Review of Economics Dynamics* [April 2019 working paper](http://www.juliankozlowski.com/papers/DK.pdf){:target="_blank"}
+with Diego Daruich, R&R  at *Review of Economics Dynamics* [Working paper](http://www.juliankozlowski.com/papers/DK.pdf){:target="_blank"}
 
     > Poor families have more children and transfer fewer resources to them. This suggests that family decisions about fertility and transfers can dampen intergenerational mobility. The model, estimated to the US in the 2000s, implies that a counterfactual flat income-fertility profile would reduce intergenerational persistence by about 7%.
 
 
 5. **Long-Term Finance and Investment with Frictional Asset Markets**
- [May 2019 working paper](http://www.juliankozlowski.com/papers/Kozlowski_Inv_2019_latest.pdf){:target="_blank"}
+ [Working paper](http://www.juliankozlowski.com/papers/Kozlowski_Inv_2019_latest.pdf){:target="_blank"}
 
     > Trading frictions in financial markets lead to a liquidity spread which increases with maturity and generates an upward sloping yield curve. Hence, trading frictions induce firms to borrow and invest at shorter horizons. Reductions in trading frictions—a new channel of financial development—can promote economic development. We use insights from the theory to measure the slope of liquidity spreads in the data.
 
  
 6.  **Macroeconomic Implications of Uniform Pricing**
-with Diego Daruich [September 2019 working paper](http://www.juliankozlowski.com/papers/DK_prices_2019_latest.pdf){:target="_blank"}
+with Diego Daruich [Working paper](http://www.juliankozlowski.com/papers/DK_prices_2019_latest.pdf){:target="_blank"}
 
     > We introduce novel data from Argentina and show that there is uniform pricing (chains set the same prices across stores both within and across regions), and prices react relatively little to local conditions. We build a model to understand the macroeconomic implications of uniform pricing. Our key finding is that consumption aggregate elasticities tend to be smaller than local elasticities, as prices react more to aggregate conditions when prices are set uniformly across regions.
 
