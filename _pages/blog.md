@@ -1,6 +1,6 @@
 ---
 permalink: /blog/
-title: "Blog"
+title: "Policy & Blog"
 author_profile: #false
 layout: splash
 #sidebar:
@@ -23,6 +23,12 @@ layout: splash
 
 3. **The Maturity Structure of Treasuries Held by the Fed**
     [On the Economy Blog](https://www.stlouisfed.org/on-the-economy/2019/may/fed-maturity-contraction-program){:target="_blank"}, May 2019
+
+3. **Corporate Bond Spreads and the Effects of Unconventional Monetary Policy during the Pandemic**
+    [On the Economy Blog](https://research.stlouisfed.org/resources/covid-19/preliminary/corporate-bond-spreads-and-unconventional-policy){:target="_blank"}, April 2020, with Mahdi Ebsim and  Miguel Faria-e-Castro
+
+
+
 
 ***
 ## [Foco Economico](http://focoeconomico.org/){:target="_blank"} (in Spanish) <a name="foco"></a>
