@@ -6,7 +6,7 @@ layout: splash
 #sidebar:
 #  nav: "docs"
 ---
-# Blog
+# Policy & Blog
 
 ---
 
