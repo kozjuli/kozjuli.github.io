@@ -24,8 +24,8 @@ layout: splash
 3. **The Maturity Structure of Treasuries Held by the Fed**
     [On the Economy Blog](https://www.stlouisfed.org/on-the-economy/2019/may/fed-maturity-contraction-program){:target="_blank"}, May 2019
 
-3. **Corporate Bond Spreads and the Effects of Unconventional Monetary Policy during the Pandemic**
-    [On the Economy Blog](https://research.stlouisfed.org/resources/covid-19/preliminary/corporate-bond-spreads-and-unconventional-policy){:target="_blank"}, April 2020, with Mahdi Ebsim and  Miguel Faria-e-Castro
+3. **Corporate Bond Spreads and the Pandemic**On the Economy Blog, 
+    [Part I](https://www.stlouisfed.org/on-the-economy/2020/april/effects-covid-19-monetary-policy-response-corporate-bond-market){:target="_blank"},[Part II](https://research.stlouisfed.org/resources/covid-19/preliminary/corporate-bond-spreads-and-pandemic-heterogeneity-across-sectors){:target="_blank"}, April 2020, with Mahdi Ebsim and  Miguel Faria-e-Castro
 
 
 
