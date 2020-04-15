@@ -20,10 +20,10 @@ Contact at <kozjuli@gmail.com>
 
 
 ---
-## New reserach on the economic effects of the pandemic
-1. **Scarring Body and Mind: The Long-Term Belief-Scarring Effects of COVID-19**  
+## New reserach on the economic effects of pandemic:
+1. *Scarring Body and Mind: The Long-Term Belief-Scarring Effects of COVID-19*  
 with Laura Veldkamp and Venky Venkateswaran, [Working paper](http://www.juliankozlowski.com/papers/KVV_covid_v1.pdf){:target="_blank"}
 
 
-2. **Corporate Bond Spreads and the Pandemic**  
+2. *Corporate Bond Spreads and the Pandemic*  
 with Mahdi Ebsim and  Miguel Faria-e-Castro, [Data](https://research.stlouisfed.org/resources/covid-19/preliminary/daily-data-corporate-bond-spreads-pandemic){:target="_blank"}, [Part I](https://www.stlouisfed.org/on-the-economy/2020/april/effects-covid-19-monetary-policy-response-corporate-bond-market){:target="_blank"}, [Part II](https://www.stlouisfed.org/on-the-economy/2020/april/corporate-bond-spreads-pandemic-heterogeneity-sectors){:target="_blank"}
