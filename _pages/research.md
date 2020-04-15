@@ -49,7 +49,7 @@ with Diego Daruich [Working paper](http://www.juliankozlowski.com/papers/DK_pric
 
     > We introduce novel data from Argentina and show that there is uniform pricing (chains set the same prices across stores both within and across regions), and prices react relatively little to local conditions. We build a model to understand the macroeconomic implications of uniform pricing. Our key finding is that consumption aggregate elasticities tend to be smaller than local elasticities, as prices react more to aggregate conditions when prices are set uniformly across regions.
 
-7. **Scarring Body and Mind: The Long-Term Belief-Scarring Effects of COVID-19** 
+7. **Scarring Body and Mind: The Long-Term Belief-Scarring Effects of COVID-19**  
 with Laura Veldkamp and Venky Venkateswaran, [Working paper](http://www.juliankozlowski.com/papers/KVV_covid_v1.pdf){:target="_blank"}
 
 	> The largest economic cost of the COVID-19 pandemic could arise if it changed behavior long after the immediate health crisis is resolved. We show how to quantify the extent of such belief changes and determine their impact on future economic outcomes. It depends crucially on whether bankruptcies and changes in habit make existing capital obsolete. A policy that avoided most permanent separation of workers from capital could generate a much larger benefit than originally thought, that could easily be 180% of annual GDP, in present value.
