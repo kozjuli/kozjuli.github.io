@@ -54,6 +54,10 @@ with Laura Veldkamp and Venky Venkateswaran, [Working paper](http://www.julianko
 
 	> The largest economic cost of the COVID-19 pandemic could arise if it changed behavior long after the immediate health crisis is resolved. We show how to quantify the extent of such belief changes and determine their impact on future economic outcomes. It depends crucially on whether bankruptcies and changes in habit make existing capital obsolete. A policy that avoided most permanent separation of workers from capital could generate a much larger benefit than originally thought, that could easily be 180% of annual GDP, in present value.
 
+8. **Domestic Policy and Sovereign Default: The Response of Emerging Markets to COVID-19**  
+with Emilio Espino, Fernando M. Martin and Juan M. Sanchez [Slides](https://drive.google.com/file/d/1E8YjBXQE4NsE3fpyxio1DVaQdbxKZJzm/view){:target="_blank"}
+
+	> Incorporate monetary and fiscal policies in a model of sovereign default to study the response of emerging markets to COVID-19.
 
  ---
 ## Discussions <a name="discussions"></a>
