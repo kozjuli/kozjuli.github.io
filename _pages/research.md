@@ -8,7 +8,7 @@ layout: splash
 ---
 
 # Research
- [Publications](#publications)     [Working papers](#wp)     [Discussions](#discussions)
+ [Publications](#publications)     [Working papers](#wp)    [Work in progress](#wpr)   [Discussions](#discussions)
 
 ---
 ## Publications <a name="publications"></a>
@@ -48,6 +48,9 @@ with Emilio Espino and Juan Sanchez, *Journal of Economic Theory 2018, vol. 176*
 with Diego Daruich [Working paper](http://www.juliankozlowski.com/papers/DK_prices_2020_v4.pdf){:target="_blank"}
 
     > We introduce novel data from Argentina and show that there is uniform pricing (chains set the same prices across stores both within and across regions), and prices react relatively little to local conditions. We build a model to understand the macroeconomic implications of uniform pricing. Our key finding is that consumption aggregate elasticities tend to be smaller than local elasticities, as prices react more to aggregate conditions when prices are set uniformly across regions.
+
+---
+## Work in Progress <a name="wpr"></a>
 
 7. **Scarring Body and Mind: The Long-Term Belief-Scarring Effects of COVID-19**  
 with Laura Veldkamp and Venky Venkateswaran, [Working paper](http://www.juliankozlowski.com/papers/KVV_covid_v1.pdf){:target="_blank"}
