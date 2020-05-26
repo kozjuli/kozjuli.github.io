@@ -13,21 +13,21 @@ layout: splash
 ---
 ## Publications <a name="publications"></a>
 1. **Long-Term Finance and Investment with Frictional Asset Markets**  
-conditionally accepted at *American Economic Journal: Macroeconomics* [paper](http://www.juliankozlowski.com/papers/Kozlowski_Inv_2019_latest.pdf){:target="_blank"}
+*American Economic Journal: Macroeconomics, conditionally accepted* [paper](http://www.juliankozlowski.com/papers/Kozlowski_Inv_2019_latest.pdf){:target="_blank"}
 
     > Trading frictions in financial markets lead to a liquidity spread which increases with maturity and generates an upward sloping yield curve. Hence, trading frictions induce firms to borrow and invest at shorter horizons. Reductions in trading frictions—a new channel of financial development—can promote economic development. We use insights from the theory to measure the slope of liquidity spreads in the data.
 
 
-2. **Explaining Intergenerational Mobility: The Role of Fertility and Family Transfers**  
-with Diego Daruich, *Review of Economics Dynamics, forthcoming* [paper](http://www.juliankozlowski.com/papers/DK.pdf){:target="_blank"}
-
-    > Poor families have more children and transfer fewer resources to them. This suggests that family decisions about fertility and transfers can dampen intergenerational mobility. The model, estimated to the US in the 2000s, implies that a counterfactual flat income-fertility profile would reduce intergenerational persistence by about 7%.
-
-
-3. **The Tail that Wags the Economy: Belief-Driven Business Cycles and Persistent Stagnation**  
+2. **The Tail that Wags the Economy: Belief-Driven Business Cycles and Persistent Stagnation**  
 with Laura Veldkamp and Venky Venkateswaran, *Journal of Political Economy, forthcoming* [paper](http://www.juliankozlowski.com/papers/KVV.pdf){:target="_blank"}
 
     > The great recession has been more persistent than others because observing an unlikely event led us to re-assess the probability of tail events. This change in beliefs endures long after the event itself has passed.
+
+
+3. **Explaining Intergenerational Mobility: The Role of Fertility and Family Transfers**  
+with Diego Daruich, *Review of Economics Dynamics, 2020, vol. 36* [paper](http://www.juliankozlowski.com/papers/DK.pdf){:target="_blank"}
+
+    > Poor families have more children and transfer fewer resources to them. This suggests that family decisions about fertility and transfers can dampen intergenerational mobility. The model, estimated to the US in the 2000s, implies that a counterfactual flat income-fertility profile would reduce intergenerational persistence by about 7%.
 
 
 4. **The Tail that Keeps the Riskless Rate Low**  
