@@ -19,7 +19,7 @@ layout: splash
 
 
 2. **The Tail that Wags the Economy: Belief-Driven Business Cycles and Persistent Stagnation**  
-with Laura Veldkamp and Venky Venkateswaran, *Journal of Political Economy, forthcoming* [paper](http://www.juliankozlowski.com/papers/KVV.pdf){:target="_blank"}
+with Laura Veldkamp and Venky Venkateswaran, *Journal of Political Economy, 2020, vol. 128(8)* [paper](http://www.juliankozlowski.com/papers/KVV.pdf){:target="_blank"}
 
     > The great recession has been more persistent than others because observing an unlikely event led us to re-assess the probability of tail events. This change in beliefs endures long after the event itself has passed.
 
