@@ -27,6 +27,9 @@ layout: splash
 3. **Corporate Bond Spreads and the Pandemic** On the Economy Blog, 
      [Data](https://research.stlouisfed.org/resources/covid-19/preliminary/daily-data-corporate-bond-spreads-pandemic){:target="_blank"}, [Part I](https://www.stlouisfed.org/on-the-economy/2020/april/effects-covid-19-monetary-policy-response-corporate-bond-market){:target="_blank"}, [Part II](https://www.stlouisfed.org/on-the-economy/2020/april/corporate-bond-spreads-pandemic-heterogeneity-sectors){:target="_blank"}, [Part III](https://www.stlouisfed.org/on-the-economy/2020/may/corporate-bond-spreads-pandemic-variance-sectors-firms){:target="_blank"}, [Part IV](https://research.stlouisfed.org/resources/covid-19/preliminary/corporate-bond-spreads-pandemic-4-liquidity-buffers){:target="_blank"}, April-June 2020, with Mahdi Ebsim and  Miguel Faria-e-Castro
 
+4. **A Lesson on Liquidity** 
+    [Open Vault Blog, video interview](https://www.stlouisfed.org/open-vault/2020/june/lesson-liquidity-filmed-lake-with-economist){:target="_blank"}, June 2020
+
 
 
 
