@@ -11,6 +11,16 @@ layout: splash
 ---
 
 
+## Media mentions
+* [Washington post](https://www.washingtonpost.com/business/2020/07/05/coronavirus-pandemic-trust-government/){:target="_blank"} July 5, 2020 
+* [Financial times](https://www.ft.com/video/e0b696ae-3b18-4862-832b-2ad53eea6ae6){:target="_blank"} July 2 2020
+* [BBC](https://www.bbc.co.uk/programmes/w3csz786){:target="_blank"} Fri 8 May 2020
+* [New York Times](https://www.nytimes.com/2018/10/12/business/why-our-beliefs-dont-predict-much-about-the-economy.html){:target="_blank"} Oct. 12, 2018
+* [The Guardian](https://www.theguardian.com/business/2017/may/23/the-economy-is-stagnant-because-people-fear-for-the-future){:target="_blank"} Tue 23 May 2017
+
+***
+
+
 ## [St Louis Fed](https://www.stlouisfed.org/publications/){:target="_blank"} <a name="frbstl"></a>
 * **A Lesson on Liquidity** 
     [Open Vault Blog, (video)](https://www.stlouisfed.org/open-vault/2020/june/lesson-liquidity-filmed-lake-with-economist){:target="_blank"}, June 2020
