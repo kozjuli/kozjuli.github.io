@@ -45,7 +45,7 @@ with Emilio Espino and Juan Sanchez, *Journal of Economic Theory 2018, vol. 176*
 ## Working Papers <a name="wp"></a>
 
 6.  **Macroeconomic Implications of Uniform Pricing**  
-with Diego Daruich [Working paper](http://www.juliankozlowski.com/papers/DK_prices_2020_v4.pdf){:target="_blank"}
+with Diego Daruich [Working paper](https://s3.amazonaws.com/real.stlouisfed.org/wp/2019/2019-024.pdf){:target="_blank"}
 
     > We introduce novel data from Argentina and show that there is uniform pricing (chains set the same prices across stores both within and across regions), and prices react relatively little to local conditions. We build a model to understand the macroeconomic implications of uniform pricing. Our key finding is that consumption aggregate elasticities tend to be smaller than local elasticities, as prices react more to aggregate conditions when prices are set uniformly across regions.
 
