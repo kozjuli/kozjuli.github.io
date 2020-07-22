@@ -8,7 +8,6 @@ layout: splash
 ---
 
 # Research
- [Publications](#publications)     [Working papers](#wp)    [Work in progress](#wpr)   [Discussions](#discussions)
 
 ---
 ## Publications <a name="publications"></a>
