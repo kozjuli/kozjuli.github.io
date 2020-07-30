@@ -12,6 +12,7 @@ layout: splash
 
 
 ## Media mentions
+* [La Nacion](https://www.lanacion.com.ar/economia/economistas-estrella-quienes-son-nueve-jovenes-argentinos-nid2400818){:target="_blank"}, July 29, 2020 
 * [Washington Post](https://www.washingtonpost.com/business/2020/07/05/coronavirus-pandemic-trust-government/){:target="_blank"}, July 5, 2020 
 * [Financial Times](https://www.ft.com/video/e0b696ae-3b18-4862-832b-2ad53eea6ae6){:target="_blank"}, July 2, 2020
 * [BBC](https://www.bbc.co.uk/programmes/w3csz786){:target="_blank"}, May 8, 2020
