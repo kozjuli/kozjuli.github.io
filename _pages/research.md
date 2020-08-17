@@ -12,7 +12,7 @@ layout: splash
 ---
 ## Publications <a name="publications"></a>
 1. **Long-Term Finance and Investment with Frictional Asset Markets**  
-*American Economic Journal: Macroeconomics, conditionally accepted* [paper](http://www.juliankozlowski.com/papers/Kozlowski_Inv_2019_latest.pdf){:target="_blank"}
+*American Economic Journal: Macroeconomics, forthcoming* [paper](http://www.juliankozlowski.com/papers/Kozlowski_Inv_2019_latest.pdf){:target="_blank"}
 
     > Trading frictions in financial markets lead to a liquidity spread which increases with maturity and generates an upward sloping yield curve. Hence, trading frictions induce firms to borrow and invest at shorter horizons. Reductions in trading frictions—a new channel of financial development—can promote economic development. We use insights from the theory to measure the slope of liquidity spreads in the data.
 
