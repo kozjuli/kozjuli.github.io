@@ -12,7 +12,7 @@ layout: splash
 ---
 ## Publications <a name="publications"></a>
 1. **Scarring Body and Mind: The Long-Term Belief-Scarring Effects of COVID-19**  
-with Laura Veldkamp and Venky Venkateswaran, * Forthcoming in the 2020 Jackson Hole Economic Policy Symposium Proceedings* [Working paper](http://www.juliankozlowski.com/papers/KVV_covid_v4.pdf){:target="_blank"}
+with Laura Veldkamp and Venky Venkateswaran, *Forthcoming in the 2020 Jackson Hole Economic Policy Symposium Proceedings* [Working paper](http://www.juliankozlowski.com/papers/KVV_covid_v4.pdf){:target="_blank"}
 
 	> The largest economic cost of the COVID-19 pandemic could arise if it changed behavior long after the immediate health crisis is resolved. We show how to quantify the extent of such belief changes and determine their impact on future economic outcomes.
 
