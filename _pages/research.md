@@ -62,7 +62,7 @@ with Emilio Espino, Fernando M. Martin and Juan M. Sanchez [Working paper](https
 9. **Anatomy of Corporate Credit Spreads: The Great Recession vs. COVID-19**  
 with Mahdi Ebsim and Migel Faria e Castro [Working paper](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-035.pdf){:target="_blank"}
 
-	> We compare the evolution of corporate credit spreads during the Great Recession and the COVID-19 pandemic. The micro-data reveal larger differences between the two episodes: the Great Recession featured an increase in the across-firm dispersion, and leverage was an important predictor of credit spreads.  Differently, the COVID-19 crisis displayed a larger increase in within-firm dispersion, and funding liquidity was a more im-portant predictor of movements in spreads.
+	> We compare the evolution of corporate credit spreads during the Great Recession and the COVID-19 pandemic. The micro-data reveal larger differences between the two episodes: the Great Recession featured an increase in the across-firm dispersion, and leverage was an important predictor of credit spreads.  Differently, the COVID-19 crisis displayed a larger increase in within-firm dispersion, and funding liquidity was a more important predictor of movements in spreads.
 
 	
 
