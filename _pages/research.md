@@ -54,10 +54,10 @@ with Diego Daruich [Working paper](https://s3.amazonaws.com/real.stlouisfed.org/
     > We introduce novel data from Argentina and show that there is uniform pricing (chains set the same prices across stores both within and across regions), and prices react relatively little to local conditions. We build a model to understand the macroeconomic implications of uniform pricing. Our key finding is that consumption aggregate elasticities tend to be smaller than local elasticities, as prices react more to aggregate conditions when prices are set uniformly across regions.
 
 
-8. **Seigniorage and Sovereign Default: The Response of Emerging Markets to COVID-19**  
+8. **Domestic Policies and Sovereign Default**  
 with Emilio Espino, Fernando M. Martin and Juan M. Sanchez [Working paper](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-017.pdf){:target="_blank"}
 
-	> Incorporate monetary and fiscal policies in a model of sovereign default to study the response of emerging markets to COVID-19.
+	> Incorporate monetary and fiscal policies in a model of sovereign default to study the response of emerging markets to terms-of-trade shocks.
 
 9. **Corporate Borrowing, Investment, and Credit Policies during Large Crises**  
 with Mahdi Ebsim and Migel Faria e Castro [Working paper](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-035.pdf){:target="_blank"}
