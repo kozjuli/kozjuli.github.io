@@ -69,6 +69,8 @@ with Mahdi Ebsim and Migel Faria e Castro [Working paper](https://s3.amazonaws.c
  ---
 ## Discussions <a name="discussions"></a>
 
-- **Beauty Contests and the Term Structure** by Martin Ellison and Andreas Tischbirek, Expectations in Dynamic Macroeconomics Model August 2018, [Discussion](http://www.juliankozlowski.com/papers/Discussion_EllisonTischbirekz.pdf){:target="_blank"}
+- **Can the cure kill the patient? Corporate credit interventions and debt overhang** by Nicolas Crouzet and Fabrice Tourre, Barcelona Summer Forum 2021 [Discussion](http://www.juliankozlowski.com/papers/discussion_Crouzet_Tourre_BCN21.pdf){:target="_blank"}
 
 - **Credit Shocks and Equilibrium Dynamics in Consumer Durable Goods Markets** by Alessandro Gavazza and Andrea Lanteri, Southern Economic Association November 2018, [Discussion](http://www.juliankozlowski.com/papers/Discussion_GavazzaLanteri18.pdf){:target="_blank"}
+
+- **Beauty Contests and the Term Structure** by Martin Ellison and Andreas Tischbirek, Expectations in Dynamic Macroeconomics Model August 2018, [Discussion](http://www.juliankozlowski.com/papers/Discussion_EllisonTischbirekz.pdf){:target="_blank"}
