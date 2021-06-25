@@ -13,12 +13,12 @@ layout: splash
 ## Publications <a name="publications"></a>
 
 - **Long-Term Finance and Investment with Frictional Asset Markets**  
-*American Economic Journal: Macroeconomics, forthcoming* [paper](http://www.juliankozlowski.com/papers/Kozlowski_Inv_2019_latest.pdf){:target="_blank"}
+*American Economic Journal: Macroeconomics, 2021, vol. 13(4)* [paper](http://www.juliankozlowski.com/papers/Kozlowski_Inv_2019_latest.pdf){:target="_blank"}
 
     > Trading frictions in financial markets lead to a liquidity spread which increases with maturity and generates an upward sloping yield curve. Hence, trading frictions induce firms to borrow and invest at shorter horizons. Reductions in trading frictions—a new channel of financial development—can promote economic development. We use insights from the theory to measure the slope of liquidity spreads in the data.
 
 - **Scarring Body and Mind: The Long-Term Belief-Scarring Effects of COVID-19**  
-with Laura Veldkamp and Venky Venkateswaran, *Forthcoming in the 2020 Jackson Hole Economic Policy Symposium Proceedings* [paper](http://www.juliankozlowski.com/papers/KVV_covid_v4.pdf){:target="_blank"}
+with Laura Veldkamp and Venky Venkateswaran, *2020 Jackson Hole Economic Policy Symposium Proceedings* [paper](http://www.juliankozlowski.com/papers/KVV_covid_v4.pdf){:target="_blank"}
 
     > The largest economic cost of the COVID-19 pandemic could arise if it changed behavior long after the immediate health crisis is resolved. We show how to quantify the extent of such belief changes and determine their impact on future economic outcomes.
 
