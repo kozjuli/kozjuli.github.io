@@ -59,10 +59,10 @@ with Emilio Espino, Fernando M. Martin and Juan M. Sanchez [Working paper](https
 
 	> Incorporate monetary and fiscal policies in a model of sovereign default to study the response of emerging markets to terms-of-trade shocks.
 
-- **Corporate Borrowing, Investment, and Credit Policies during Large Crises**  
+- **Credit and Liquidity Policies during Large Crises**  
 with Mahdi Ebsim and Migel Faria e Castro [Working paper](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-035.pdf){:target="_blank"}
 
-	> We compare the evolution of corporate credit spreads during two large crises: the Great Financial Crisis and the COVID-19 pandemic. The micro-data reveal that firm leverage was a more important predictor of credit spreads during the GFC, but that firm liquidity was more important during the pandemic. We build a model to study the differential response of firms’ borrowing conditions and investment to large aggregate shocks, and how it depends on two key characteristics: leverage and liquidity. We then study how different credit policies may be more or less appropriate responses to different exogenous shocks.
+	> We study the evolution of firm financials during two large crises: the Great Financial Crisis (GFC) and the COVID-19 pandemic. While the two crises featured similar increases in corporate spreads, corporate debt and liquid asset holdings moved in opposite directions.The micro-data reveal that firm leverage was a more important predictor of credit spreads during the GFC, but that firm liquidity was more important during the pandemic. We build a model to study the differential response of firms’ borrowing conditions and investment to large aggregate shocks, and how it depends on two key characteristics: leverage and liquidity. We then study how different credit and liquidity policies may be more or less appropriate responses to different exogenous shocks.
 
 	
 
