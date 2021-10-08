@@ -69,6 +69,9 @@ with Mahdi Ebsim and Migel Faria e Castro [Working paper](https://s3.amazonaws.c
  ---
 ## Discussions <a name="discussions"></a>
 
+- **The COVID-19 Impact on Corporate Leverage and Financial Fragility** by Sharjil M. Haque and Richard Varghese, CEAR | CenFIS Workshop: How is the Covid-19 experience changing finance? [Discussion](http://www.juliankozlowski.com/papers/discussion_HaqueVarghese_oct2021.pdf){:target="_blank"}
+
+
 - **Can the cure kill the patient? Corporate credit interventions and debt overhang** by Nicolas Crouzet and Fabrice Tourre, Barcelona Summer Forum 2021 [Discussion](http://www.juliankozlowski.com/papers/discussion_Crouzet_Tourre_BCN21.pdf){:target="_blank"}
 
 - **Credit Shocks and Equilibrium Dynamics in Consumer Durable Goods Markets** by Alessandro Gavazza and Andrea Lanteri, Southern Economic Association November 2018, [Discussion](http://www.juliankozlowski.com/papers/Discussion_GavazzaLanteri18.pdf){:target="_blank"}
