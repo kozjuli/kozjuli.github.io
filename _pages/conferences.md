@@ -8,6 +8,11 @@ layout: splash
 ---
 
 # Conferences
+
+- **The Macroeconomics of Inequality**, November 18-19, 2021, at FRB St. Louis
+[Program](https://events.stlouisfed.org/event/e8b41861-51f8-4f13-bf1c-05c9d9c306e7){:target="_blank"}
+
+
 - **The Macroeconomics of Inequality: Pandemics and Inequality**, October 2, 2020, online edition
 [Program](https://events.stlouisfed.org/event/cea53c8d-fed5-456a-9d8c-6d09cd31c22d/summary?environment=P2&5S%2CM3%2Ccea53c8d-fed5-456a-9d8c-6d09cd31c22d=){:target="_blank"}
 
