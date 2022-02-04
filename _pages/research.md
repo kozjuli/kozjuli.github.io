@@ -66,7 +66,7 @@ with Mahdi Ebsim and Migel Faria e Castro [Working paper](https://s3.amazonaws.c
 	> We compare firms' financials during the Great Financial Crisis (GFC) and COVID-19. While the two crises featured similar increases in credit spreads, debt and liquid assets decreased during the GFC, but increased during COVID-19. In the cross section, leverage was the main determinant of credit spreads and investment during the GFC, but liquidity was more important during COVID-19. We augment a quantitative model of firm capital structure with a motive to hold liquid assets. The GFC resembled a combination of productivity and financial shocks, while COVID-19 also featured liquidity shocks. We study the state-dependent effects of credit and liquidity policies.
 
 
---
+---
 ## Work in Progress <a name="wpr"></a>
 
 
