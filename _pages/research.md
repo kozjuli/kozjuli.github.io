@@ -13,7 +13,7 @@ layout: splash
 ## Publications <a name="publications"></a>
 
 -  **Macroeconomic Implications of Uniform Pricing**  
-with Diego Daruich [Working paper](https://s3.amazonaws.com/real.stlouisfed.org/wp/2019/2019-024.pdf?1){:target="_blank"} * Accepted, American Economic Journal: Macroeconomics* 
+with Diego Daruich [Working paper](https://s3.amazonaws.com/real.stlouisfed.org/wp/2019/2019-024.pdf?1){:target="_blank"} *American Economic Journal: Macroeconomics, accepted* 
 
     > We introduce novel data from Argentina and show that there is uniform pricing (chains set the same prices across stores both within and across regions), and prices react relatively little to local conditions. We build a model to understand the macroeconomic implications of uniform pricing. Our key finding is that consumption aggregate elasticities tend to be smaller than local elasticities, as prices react more to aggregate conditions when prices are set uniformly across regions.
 
@@ -73,7 +73,7 @@ with Mahdi Ebsim and Migel Faria e Castro [Working paper](https://s3.amazonaws.c
 - **Liquidity and Investment in General Equilibrium**
 with Nicolas Caramp and Keisuke Teeple
 
-- **Local Spillovers, Segregation, and Racial Gaps in Educational Attainment**
+- **The Impact of Racial Segregation on College Attainment in Spatial Equilibrium**
 with Victoria Gregory and Hannah Rubinton
 
 
