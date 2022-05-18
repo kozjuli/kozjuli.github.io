@@ -58,7 +58,7 @@ with Emilio Espino and Juan Sanchez, *Journal of Economic Theory 2018, vol. 176*
 - **Domestic Policies and Sovereign Default**  
 with Emilio Espino, Fernando M. Martin and Juan M. Sanchez [Working paper](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-017.pdf){:target="_blank"}
 
-	> Incorporate monetary and fiscal policies in a model of sovereign default to study the response of emerging markets to terms-of-trade shocks.
+	> A model with two essential elements, sovereign default and distortionary fiscal and monetary policies, explains the interaction between sovereign debt, default risk and inflation in emerging countries. 
 
 - **Credit and Liquidity Policies during Large Crises**  
 with Mahdi Ebsim and Migel Faria e Castro [Working paper](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-035.pdf){:target="_blank"}
