@@ -73,8 +73,11 @@ with Mahdi Ebsim and Migel Faria e Castro [Working paper](https://s3.amazonaws.c
 - **Liquidity and Investment in General Equilibrium**
 with Nicolas Caramp and Keisuke Teeple
 
-- **The Impact of Racial Segregation on College Attainment in Spatial Equilibrium**
+- **A Spatial Equilibrium Model of Racial Segregation and the College Gap**
 with Victoria Gregory and Hannah Rubinton
+
+- **Policy Rules and Large Crises in Emerging Markets**
+with Emilio Espino, Fernando M. Martin and Juan M. Sanchez
 
 
  ---
