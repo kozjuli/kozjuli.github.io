@@ -54,17 +54,22 @@ with Emilio Espino and Juan Sanchez, *Journal of Economic Theory 2018, vol. 176*
 ---
 ## Working Papers <a name="wp"></a>
 
+- **Credit and Liquidity Policies during Large Crises**  
+with Mahdi Ebsim and Migel Faria e Castro [Working paper](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-035.pdf){:target="_blank"}
+
+	> We compare firms' financials during the Great Financial Crisis (GFC) and COVID-19. While the two crises featured similar increases in credit spreads, debt and liquid assets decreased during the GFC, but increased during COVID-19. In the cross section, leverage was the main determinant of credit spreads and investment during the GFC, but liquidity was more important during COVID-19. We augment a quantitative model of firm capital structure with a motive to hold liquid assets. The GFC resembled a combination of productivity and financial shocks, while COVID-19 also featured liquidity shocks. We study the state-dependent effects of credit and liquidity policies.
+
 
 - **Domestic Policies and Sovereign Default**  
 with Emilio Espino, Fernando M. Martin and Juan M. Sanchez [Working paper](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-017.pdf){:target="_blank"}
 
 	> A model with two essential elements, sovereign default and distortionary fiscal and monetary policies, explains the interaction between sovereign debt, default risk and inflation in emerging countries. 
 
-- **Credit and Liquidity Policies during Large Crises**  
-with Mahdi Ebsim and Migel Faria e Castro [Working paper](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-035.pdf){:target="_blank"}
 
-	> We compare firms' financials during the Great Financial Crisis (GFC) and COVID-19. While the two crises featured similar increases in credit spreads, debt and liquid assets decreased during the GFC, but increased during COVID-19. In the cross section, leverage was the main determinant of credit spreads and investment during the GFC, but liquidity was more important during COVID-19. We augment a quantitative model of firm capital structure with a motive to hold liquid assets. The GFC resembled a combination of productivity and financial shocks, while COVID-19 also featured liquidity shocks. We study the state-dependent effects of credit and liquidity policies.
+- **Policy Rules and Large Crises in Emerging Markets**
+with Emilio Espino, Fernando M. Martin and Juan M. Sanchez [Working paper](https://s3.amazonaws.com/real.stlouisfed.org/wp/2022/2022-018.pdf){:target="_blank"}
 
+    > This paper studies a sovereign default model with fiscal and monetary policies to assess the policy response and evaluate the gains from flexibility in times of severe distress.
 
 ---
 ## Work in Progress <a name="wpr"></a>
@@ -75,10 +80,6 @@ with Nicolas Caramp and Keisuke Teeple
 
 - **A Spatial Equilibrium Model of Racial Segregation and the College Gap**
 with Victoria Gregory and Hannah Rubinton
-
-- **Policy Rules and Large Crises in Emerging Markets**
-with Emilio Espino, Fernando M. Martin and Juan M. Sanchez
-
 
  ---
 ## Discussions <a name="discussions"></a>
