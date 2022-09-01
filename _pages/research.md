@@ -66,7 +66,7 @@ with Emilio Espino, Fernando M. Martin and Juan M. Sanchez [Working paper](https
 	> A model with two essential elements, sovereign default and distortionary fiscal and monetary policies, explains the interaction between sovereign debt, default risk and inflation in emerging countries. 
 
 
-- **Policy Rules and Large Crises in Emerging Markets**
+- **Policy Rules and Large Crises in Emerging Markets**  
 with Emilio Espino, Fernando M. Martin and Juan M. Sanchez [Working paper](https://s3.amazonaws.com/real.stlouisfed.org/wp/2022/2022-018.pdf){:target="_blank"}
 
     > This paper studies a sovereign default model with fiscal and monetary policies to assess the policy response and evaluate the gains from flexibility in times of severe distress.
@@ -75,10 +75,10 @@ with Emilio Espino, Fernando M. Martin and Juan M. Sanchez [Working paper](https
 ## Work in Progress <a name="wpr"></a>
 
 
-- **Liquidity and Investment in General Equilibrium**
+- **Liquidity and Investment in General Equilibrium**  
 with Nicolas Caramp and Keisuke Teeple
 
-- **A Spatial Equilibrium Model of Racial Segregation and the College Gap**
+- **A Spatial Equilibrium Model of Racial Segregation and the College Gap**  
 with Victoria Gregory and Hannah Rubinton
 
  ---
