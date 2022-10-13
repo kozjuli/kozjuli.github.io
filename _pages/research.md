@@ -76,13 +76,9 @@ with Nicolas Caramp and Keisuke Teeple [Working paper](https://s3.amazonaws.com/
 
     > This paper studies the implications of trading frictions in financial markets for firms' investment and dividend choices and their aggregate consequences.
 
----
-## Work in Progress <a name="wpr"></a>
-
-
-
 - **A Spatial Equilibrium Model of Racial Segregation and the College Gap**  
-with Victoria Gregory and Hannah Rubinton
+with Victoria Gregory and Hannah Rubinton [Working paper](https://s3.amazonaws.com/real.stlouisfed.org/wp/2022/2022-036.pdf){:target="_blank"}
+
 
  ---
 ## Discussions <a name="discussions"></a>
