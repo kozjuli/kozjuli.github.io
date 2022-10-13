@@ -12,6 +12,8 @@ layout: splash
 
 I am a Senior Economist in the Research Division of the [Federal Reserve Bank of St. Louis](https://research.stlouisfed.org/){:target="_blank"}.
 
+I teach Financial Economics in the Master in Economics at [Washington University in St. Louis](https://economics.wustl.edu/masters-degree-economics){:target="_blank"}.
+
 I graduated from New York University with a Ph.D. in Economics in May 2018.
 
 Contact at <kozjuli@gmail.com>
