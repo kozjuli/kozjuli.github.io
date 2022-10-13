@@ -25,7 +25,7 @@ layout: splash
 
 
 * **Liquidity Dries Up** 
-    [Economic Synopses](https://research.stlouisfed.org/publications/economic-synopses/2022/08/23/liquidity-dries-up){:target="_blank"}, August 2022, [On the Economy Blog](https://www.stlouisfed.org/on-the-economy/2022/aug/market-liquidity-quantity-theory-money){:target="_blank"}, August 2022
+    [Economic Synopses](https://research.stlouisfed.org/publications/economic-synopses/2022/08/23/liquidity-dries-up){:target="_blank"}, [On the Economy Blog](https://www.stlouisfed.org/on-the-economy/2022/aug/market-liquidity-quantity-theory-money){:target="_blank"}, [Timely Topics (podcast)](https://www.stlouisfed.org/timely-topics/understanding-liquidity-fed-funds-rate){:target="_blank"}, August 2022
 
 * **A Lesson on Liquidity** 
     [Open Vault Blog, (video)](https://www.stlouisfed.org/open-vault/2020/june/lesson-liquidity-filmed-lake-with-economist){:target="_blank"}, June 2020
