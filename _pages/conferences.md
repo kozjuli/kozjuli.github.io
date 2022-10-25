@@ -9,6 +9,10 @@ layout: splash
 
 # Conferences
 
+- **The Macroeconomics of Inequality**, November 17-18, 2022, at FRB St. Louis and Washington University in St. Louis
+[Program](https://events.stlouisfed.org/event/9b975753-6c34-4345-9f81-f98bf6ecd4e2/summary){:target="_blank"}
+
+
 - **The Macroeconomics of Inequality**, November 18-19, 2021, at FRB St. Louis
 [Program](https://events.stlouisfed.org/event/e8b41861-51f8-4f13-bf1c-05c9d9c306e7){:target="_blank"}
 
