@@ -76,7 +76,7 @@ with Nicolas Caramp and Keisuke Teeple [Working paper](https://s3.amazonaws.com/
 
     > This paper studies the implications of trading frictions in financial markets for firms' investment and dividend choices and their aggregate consequences.
 
-- **A Spatial Equilibrium Model of Racial Segregation and the College Gap**  
+- **The Impact of Racial Segregation on College Attainment in Spatial Equilibrium**  
 with Victoria Gregory and Hannah Rubinton [Working paper](https://s3.amazonaws.com/real.stlouisfed.org/wp/2022/2022-036.pdf){:target="_blank"}
 
     > We incorporate race into an overlapping-generations spatial-equilibrium model with neighborhood spillovers. Race matters in two ways: (i) the Black-White wage gap and (ii) homophily—the preferences of individuals over the racial composition of their neighborhood. These two forces generate a Black-White college gap of 22 percentage points, explaining about 80% of the college gap in the data for the St. Louis metro area.
