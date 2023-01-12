@@ -25,7 +25,7 @@ layout: splash
 
 
 * **Interest Rates and Liquidity 2022** 
-    [Economic Synopses I](https://research.stlouisfed.org/publications/economic-synopses/2022/08/23/liquidity-dries-up){:target="_blank"}, [Economic Synopeses II](https://research.stlouisfed.org/publications/economic-synopses/2022/12/16/where-do-you-keep-your-liquid-wealthbank-deposits-or-t-bills){:target="_blank"}, [On the Economy Blog I](https://www.stlouisfed.org/on-the-economy/2022/aug/market-liquidity-quantity-theory-money){:target="_blank"}, [Timely Topics (podcast)](https://www.stlouisfed.org/timely-topics/understanding-liquidity-fed-funds-rate){:target="_blank"}, [On the Economy Blog II](https://www.stlouisfed.org/on-the-economy/2023/jan/many-interest-rates-2022){:target="_blank"}, 2022
+    [Economic Synopses I](https://research.stlouisfed.org/publications/economic-synopses/2022/08/23/liquidity-dries-up){:target="_blank"}, [Economic Synopeses II](https://research.stlouisfed.org/publications/economic-synopses/2022/12/16/where-do-you-keep-your-liquid-wealthbank-deposits-or-t-bills){:target="_blank"}, [On the Economy Blog I](https://www.stlouisfed.org/on-the-economy/2022/aug/market-liquidity-quantity-theory-money){:target="_blank"}, [On the Economy Blog II](https://www.stlouisfed.org/on-the-economy/2023/jan/many-interest-rates-2022){:target="_blank"}, [Timely Topics (podcast)](https://www.stlouisfed.org/timely-topics/understanding-liquidity-fed-funds-rate){:target="_blank"}, with Sam Jordan-Wood 2022
 
 * **A Lesson on Liquidity** 
     [Open Vault Blog, (video)](https://www.stlouisfed.org/open-vault/2020/june/lesson-liquidity-filmed-lake-with-economist){:target="_blank"}, June 2020
