@@ -13,7 +13,7 @@ layout: splash
 ## Publications <a name="publications"></a>
 
 -  **Macroeconomic Implications of Uniform Pricing**  
-with Diego Daruich *American Economic Journal: Macroeconomics, Forthcoming*  [paper](https://s3.amazonaws.com/real.stlouisfed.org/wp/2019/2019-024.pdf?1){:target="_blank"}
+with Diego Daruich *American Economic Journal: Macroeconomics, July 2023*  [paper](https://s3.amazonaws.com/real.stlouisfed.org/wp/2019/2019-024.pdf?1){:target="_blank"}
 
     > We introduce novel data from Argentina and show that there is uniform pricing (chains set the same prices across stores both within and across regions), and prices react relatively little to local conditions. We build a model to understand the macroeconomic implications of uniform pricing. Our key finding is that consumption aggregate elasticities tend to be smaller than local elasticities, as prices react more to aggregate conditions when prices are set uniformly across regions.
 
@@ -54,22 +54,21 @@ with Emilio Espino and Juan Sanchez, *Journal of Economic Theory 2018, vol. 176*
 ---
 ## Working Papers <a name="wp"></a>
 
-- **Credit and Liquidity Policies during Large Crises**  
-with Mahdi Ebsim and Migel Faria e Castro [Working paper](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-035.pdf){:target="_blank"}
-
-	> We compare firms' financials during the Great Financial Crisis (GFC) and COVID-19. While the two crises featured similar increases in credit spreads, debt and liquid assets decreased during the GFC, but increased during COVID-19. In the cross section, leverage was the main determinant of credit spreads and investment during the GFC, but liquidity was more important during COVID-19. We augment a quantitative model of firm capital structure with a motive to hold liquid assets. The GFC resembled a combination of productivity and financial shocks, while COVID-19 also featured liquidity shocks. We study the state-dependent effects of credit and liquidity policies.
-
-
 - **Domestic Policies and Sovereign Default**  
-with Emilio Espino, Fernando M. Martin and Juan M. Sanchez [Working paper](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-017.pdf){:target="_blank"}
+with Emilio Espino, Fernando M. Martin and Juan M. Sanchez. * R&R at American Economic Journal: Macroeconomics* [Working paper](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-017.pdf){:target="_blank"}
 
-	> A model with two essential elements, sovereign default and distortionary fiscal and monetary policies, explains the interaction between sovereign debt, default risk and inflation in emerging countries. 
-
+    > A model with two essential elements, sovereign default and distortionary fiscal and monetary policies, explains the interaction between sovereign debt, default risk and inflation in emerging countries. 
 
 - **Policy Rules and Large Crises in Emerging Markets**  
 with Emilio Espino, Fernando M. Martin and Juan M. Sanchez [Working paper](https://s3.amazonaws.com/real.stlouisfed.org/wp/2022/2022-018.pdf){:target="_blank"}
 
     > This paper studies a sovereign default model with fiscal and monetary policies to assess the policy response and evaluate the gains from flexibility in times of severe distress.
+
+- **Credit and Liquidity Policies during Large Crises**  
+with Mahdi Ebsim and Migel Faria e Castro [Working paper](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-035.pdf){:target="_blank"}
+
+    > We compare firms' financials during the Great Financial Crisis (GFC) and COVID-19. While the two crises featured similar increases in credit spreads, debt and liquid assets decreased during the GFC, but increased during COVID-19. In the cross section, leverage was the main determinant of credit spreads and investment during the GFC, but liquidity was more important during COVID-19. We augment a quantitative model of firm capital structure with a motive to hold liquid assets. The GFC resembled a combination of productivity and financial shocks, while COVID-19 also featured liquidity shocks. We study the state-dependent effects of credit and liquidity policies.
+
 
 - **Liquidity and Investment in General Equilibrium**  
 with Nicolas Caramp and Keisuke Teeple [Working paper](https://s3.amazonaws.com/real.stlouisfed.org/wp/2022/2022-022.pdf){:target="_blank"}
