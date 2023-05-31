@@ -81,6 +81,17 @@ with Victoria Gregory and Hannah Rubinton [Working paper](https://s3.amazonaws.c
     > We incorporate race into an overlapping-generations spatial-equilibrium model with neighborhood spillovers. Race matters in two ways: (i) the Black-White wage gap and (ii) homophily—the preferences of individuals over the racial composition of their neighborhood. These two forces generate a Black-White college gap of 22 percentage points, explaining about 80% of the college gap in the data for the St. Louis metro area.
 
 
+---
+## Other publications <a name="other"></a>
+
+- **External Shocks versus Domestic Policies in Emerging Markets**  
+with Emilio Espino, Fernando M. Martin and Juan M. Sanchez. * Federal Reserve Bank of St. Louis Review, Second Quarter 2023 * [Paper](https://doi.org/10.20955/r.105.108-121){:target="_blank"}
+
+
+- **Stylized Facts on the Organization of Small Business Partnerships**  
+with Emilio Espino and Juan M. Sanchez. * Federal Reserve Bank of St. Louis Review, Foruth Quarter 2016 * [Paper](https://doi.org/10.20955/r.2016.297-310){:target="_blank"}
+
+
  ---
 ## Discussions <a name="discussions"></a>
 
