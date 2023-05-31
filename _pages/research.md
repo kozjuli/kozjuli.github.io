@@ -10,6 +10,36 @@ layout: splash
 # Research
 
 ---
+## Working Papers <a name="wp"></a>
+
+- **Domestic Policies and Sovereign Default**  
+with Emilio Espino, Fernando M. Martin and Juan M. Sanchez. *R&R at American Economic Journal: Macroeconomics* [Working paper](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-017.pdf){:target="_blank"}
+
+    > A model with two essential elements, sovereign default and distortionary fiscal and monetary policies, explains the interaction between sovereign debt, default risk and inflation in emerging countries. 
+
+- **Policy Rules and Large Crises in Emerging Markets**  
+with Emilio Espino, Fernando M. Martin and Juan M. Sanchez [Working paper](https://s3.amazonaws.com/real.stlouisfed.org/wp/2022/2022-018.pdf){:target="_blank"}
+
+    > This paper studies a sovereign default model with fiscal and monetary policies to assess the policy response and evaluate the gains from flexibility in times of severe distress.
+
+- **Credit and Liquidity Policies during Large Crises**  
+with Mahdi Ebsim and Migel Faria e Castro [Working paper](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-035.pdf){:target="_blank"}
+
+    > We compare firms' financials during the Great Financial Crisis (GFC) and COVID-19. While the two crises featured similar increases in credit spreads, debt and liquid assets decreased during the GFC, but increased during COVID-19. In the cross section, leverage was the main determinant of credit spreads and investment during the GFC, but liquidity was more important during COVID-19. We augment a quantitative model of firm capital structure with a motive to hold liquid assets. The GFC resembled a combination of productivity and financial shocks, while COVID-19 also featured liquidity shocks. We study the state-dependent effects of credit and liquidity policies.
+
+
+- **Liquidity and Investment in General Equilibrium**  
+with Nicolas Caramp and Keisuke Teeple [Working paper](https://s3.amazonaws.com/real.stlouisfed.org/wp/2022/2022-022.pdf){:target="_blank"}
+
+    > This paper studies the implications of trading frictions in financial markets for firms' investment and dividend choices and their aggregate consequences.
+
+- **The Impact of Racial Segregation on College Attainment in Spatial Equilibrium**  
+with Victoria Gregory and Hannah Rubinton [Working paper](https://s3.amazonaws.com/real.stlouisfed.org/wp/2022/2022-036.pdf){:target="_blank"}
+
+    > We incorporate race into an overlapping-generations spatial-equilibrium model with neighborhood spillovers. Race matters in two ways: (i) the Black-White wage gap and (ii) homophily—the preferences of individuals over the racial composition of their neighborhood. These two forces generate a Black-White college gap of 22 percentage points, explaining about 80% of the college gap in the data for the St. Louis metro area.
+
+
+---
 ## Publications <a name="publications"></a>
 
 -  **Macroeconomic Implications of Uniform Pricing**  
@@ -51,45 +81,17 @@ with Emilio Espino and Juan Sanchez, *Journal of Economic Theory 2018, vol. 176*
  
     > Private information may limit insurance possibilities when two agents get together to pool idiosyncratic risk. However, if there is capital accumulation, bilateral insurance possibilities improve because misreporting distorts investment. 
 
----
-## Working Papers <a name="wp"></a>
-
-- **Domestic Policies and Sovereign Default**  
-with Emilio Espino, Fernando M. Martin and Juan M. Sanchez. *R&R at American Economic Journal: Macroeconomics* [Working paper](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-017.pdf){:target="_blank"}
-
-    > A model with two essential elements, sovereign default and distortionary fiscal and monetary policies, explains the interaction between sovereign debt, default risk and inflation in emerging countries. 
-
-- **Policy Rules and Large Crises in Emerging Markets**  
-with Emilio Espino, Fernando M. Martin and Juan M. Sanchez [Working paper](https://s3.amazonaws.com/real.stlouisfed.org/wp/2022/2022-018.pdf){:target="_blank"}
-
-    > This paper studies a sovereign default model with fiscal and monetary policies to assess the policy response and evaluate the gains from flexibility in times of severe distress.
-
-- **Credit and Liquidity Policies during Large Crises**  
-with Mahdi Ebsim and Migel Faria e Castro [Working paper](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-035.pdf){:target="_blank"}
-
-    > We compare firms' financials during the Great Financial Crisis (GFC) and COVID-19. While the two crises featured similar increases in credit spreads, debt and liquid assets decreased during the GFC, but increased during COVID-19. In the cross section, leverage was the main determinant of credit spreads and investment during the GFC, but liquidity was more important during COVID-19. We augment a quantitative model of firm capital structure with a motive to hold liquid assets. The GFC resembled a combination of productivity and financial shocks, while COVID-19 also featured liquidity shocks. We study the state-dependent effects of credit and liquidity policies.
-
-
-- **Liquidity and Investment in General Equilibrium**  
-with Nicolas Caramp and Keisuke Teeple [Working paper](https://s3.amazonaws.com/real.stlouisfed.org/wp/2022/2022-022.pdf){:target="_blank"}
-
-    > This paper studies the implications of trading frictions in financial markets for firms' investment and dividend choices and their aggregate consequences.
-
-- **The Impact of Racial Segregation on College Attainment in Spatial Equilibrium**  
-with Victoria Gregory and Hannah Rubinton [Working paper](https://s3.amazonaws.com/real.stlouisfed.org/wp/2022/2022-036.pdf){:target="_blank"}
-
-    > We incorporate race into an overlapping-generations spatial-equilibrium model with neighborhood spillovers. Race matters in two ways: (i) the Black-White wage gap and (ii) homophily—the preferences of individuals over the racial composition of their neighborhood. These two forces generate a Black-White college gap of 22 percentage points, explaining about 80% of the college gap in the data for the St. Louis metro area.
 
 
 ---
 ## Other publications <a name="other"></a>
 
 - **External Shocks versus Domestic Policies in Emerging Markets**  
-with Emilio Espino, Fernando M. Martin and Juan M. Sanchez. * Federal Reserve Bank of St. Louis Review, Second Quarter 2023 * [Paper](https://doi.org/10.20955/r.105.108-121){:target="_blank"}
+with Emilio Espino, Fernando M. Martin and Juan M. Sanchez. *Federal Reserve Bank of St. Louis Review, Second Quarter 2023* [Paper](https://doi.org/10.20955/r.105.108-121){:target="_blank"}
 
 
 - **Stylized Facts on the Organization of Small Business Partnerships**  
-with Emilio Espino and Juan M. Sanchez. * Federal Reserve Bank of St. Louis Review, Foruth Quarter 2016 * [Paper](https://doi.org/10.20955/r.2016.297-310){:target="_blank"}
+with Emilio Espino and Juan M. Sanchez. *Federal Reserve Bank of St. Louis Review, Foruth Quarter 2016* [Paper](https://doi.org/10.20955/r.2016.297-310){:target="_blank"}
 
 
  ---
