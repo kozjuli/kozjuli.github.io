@@ -38,12 +38,12 @@ layout: splash
 
 * **Corporate Bond Spreads and the Pandemic**, 2021, with Mahdi Ebsim,  Miguel Faria-e-Castro, and Sam Jordan-Wood
     * [Data](https://research.stlouisfed.org/resources/covid-19/preliminary/daily-data-corporate-bond-spreads-pandemic){:target="_blank"}
-    * [Part I](https://www.stlouisfed.org/on-the-economy/2020/april/effects-covid-19-monetary-policy-response-corporate-bond-market){:target="_blank"}
-    * [Part II](https://www.stlouisfed.org/on-the-economy/2020/april/corporate-bond-spreads-pandemic-heterogeneity-sectors){:target="_blank"}
-    * [Part III](https://www.stlouisfed.org/on-the-economy/2020/may/corporate-bond-spreads-pandemic-variance-sectors-firms){:target="_blank"}
-    * [Part IV](https://www.stlouisfed.org/on-the-economy/2020/june/corporate-bond-spreads-pandemic-liquidity-buffers){:target="_blank"}
-    * [Part V](https://www.stlouisfed.org/on-the-economy/2021/february/credit-spreads-financial-crisis-covid19){:target="_blank"}
-    * [Part VI](https://www.stlouisfed.org/on-the-economy/2021/november/comovement-credit-spreads-debt-assets-crises){:target="_blank"}
+    * [Corporate Bond Spreads and the Pandemic](https://www.stlouisfed.org/on-the-economy/2020/april/effects-covid-19-monetary-policy-response-corporate-bond-market){:target="_blank"}
+    * [Corporate Bond Spreads and the Pandemic II: Heterogeneity across Sectors](https://www.stlouisfed.org/on-the-economy/2020/april/corporate-bond-spreads-pandemic-heterogeneity-sectors){:target="_blank"}
+    * [Corporate Bond Spreads and the Pandemic III: Variance across Sectors and Firms](https://www.stlouisfed.org/on-the-economy/2020/may/corporate-bond-spreads-pandemic-variance-sectors-firms){:target="_blank"}
+    * [Corporate Bond Spreads and the Pandemic IV: Liquidity Buffers](https://www.stlouisfed.org/on-the-economy/2020/june/corporate-bond-spreads-pandemic-liquidity-buffers){:target="_blank"}
+    * [Credit Spreads during the Financial Crisis and COVID-19](https://www.stlouisfed.org/on-the-economy/2021/february/credit-spreads-financial-crisis-covid19){:target="_blank"}
+    * [The Comovement between Credit Spreads, Corporate Debt and Liquid Assets in Recent Crises](https://www.stlouisfed.org/on-the-economy/2021/november/comovement-credit-spreads-debt-assets-crises){:target="_blank"}
 
 * **The Maturity Structure of Treasuries Held by the Fed**, 2019
     * [On the Economy Blog](https://www.stlouisfed.org/on-the-economy/2019/may/fed-maturity-contraction-program){:target="_blank"} 
