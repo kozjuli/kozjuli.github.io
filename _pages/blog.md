@@ -36,8 +36,9 @@ layout: splash
 * **The Maturity Structure of Treasuries Held by the Fed**
     [On the Economy Blog](https://www.stlouisfed.org/on-the-economy/2019/may/fed-maturity-contraction-program){:target="_blank"}, May 2019
 
-* **What Is Driving Student Debt in the Eighth District?**
-    [Regional Economist](https://www.stlouisfed.org/publications/regional-economist/second-quarter-2019/driving-student-debt){:target="_blank"}, [On the Economy Blog](https://www.stlouisfed.org/on-the-economy/2019/september/students-borrowing-too-much-too-little){:target="_blank"}, June 2019, with Mahdi Ebsim
+* **What Is Driving Student Debt in the Eighth District?**, 2019, with Mahdi Ebsim
+    * [What Is Driving Student Debt in the Eighth District?](https://www.stlouisfed.org/publications/regional-economist/second-quarter-2019/driving-student-debt){:target="_blank"}
+    * [Are Students Borrowing Too Much? Or Too Little?](https://www.stlouisfed.org/on-the-economy/2019/september/students-borrowing-too-much-too-little){:target="_blank"}
 
 * **Tail Risk** Economic Synopses, [Part 1](https://research.stlouisfed.org/publications/economic-synopses/2019/08/05/tail-risk-part-1-the-persistent-effects-of-the-great-recession){:target="_blank"}, [Part 2](https://research.stlouisfed.org/publications/economic-synopses/2019/08/06/tail-risk-part-2-the-missing-recovery-after-the-great-recession){:target="_blank"}, [Part 3](https://research.stlouisfed.org/publications/economic-synopses/2019/08/07/tail-risk-part-3-the-return-on-safe-and-liquid-assets){:target="_blank"},[Part 4](https://research.stlouisfed.org/publications/economic-synopses/2020/12/22/covid-19-scarring-body-and-mind){:target="_blank"}, [Timely Topics (podcast)](https://www.stlouisfed.org/timely-topics/how-great-recession-still-affects-perceptions?utm_source=twitter&utm_medium=SM&utm_content=stlouisfed&utm_campaign=9dbd699d-e9dc-4543-ba2f-4f23a9898703){:target="_blank"}, 2019
 
