@@ -8,6 +8,16 @@ layout: splash
 ---
 # Policy & Blog
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PK9T3DH9SS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PK9T3DH9SS');
+</script>
+
 ---
 
 
