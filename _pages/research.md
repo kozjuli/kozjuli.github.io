@@ -19,7 +19,6 @@ layout: splash
 
 # Research
 
----
 ## Working Papers <a name="wp"></a>
 
 1. **Domestic Policies and Sovereign Default**  
