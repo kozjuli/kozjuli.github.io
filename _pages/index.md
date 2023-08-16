@@ -22,7 +22,7 @@ layout: splash
 <img style="float: right;" src="/assets/kozlowski.jpg" width="250">
 
 
-I am a Senior Economist in the Research Division of the [Federal Reserve Bank of St. Louis](https://research.stlouisfed.org/){:target="_blank"}.
+I am a Economic Policy Advisor in the Research Division of the [Federal Reserve Bank of St. Louis](https://research.stlouisfed.org/){:target="_blank"}.
 
 I teach Financial Economics in the Master in Economics at [Washington University in St. Louis](https://economics.wustl.edu/masters-degree-economics){:target="_blank"}.
 
