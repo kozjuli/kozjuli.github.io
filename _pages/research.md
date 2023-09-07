@@ -101,6 +101,8 @@ with Emilio Espino and Juan M. Sanchez. *Federal Reserve Bank of St. Louis Revie
  ---
 ## Discussions <a name="discussions"></a>
 
+1. **A Theory of Payments-Chain Crises** by Saki Bigio, 2023 IEF Workshop [Discussion](http://www.juliankozlowski.com/papers/discussion_bigio_kozlowski.pdf){:target="_blank"}
+
 1. **The COVID-19 Impact on Corporate Leverage and Financial Fragility** by Sharjil M. Haque and Richard Varghese, CEAR CenFIS Workshop: How is the Covid-19 experience changing finance? [Discussion](http://www.juliankozlowski.com/papers/discussion_HaqueVarghese_oct2021.pdf){:target="_blank"}
 
 1. **Can the cure kill the patient? Corporate credit interventions and debt overhang** by Nicolas Crouzet and Fabrice Tourre, Barcelona Summer Forum 2021 [Discussion](http://www.juliankozlowski.com/papers/discussion_Crouzet_Tourre_BCN21.pdf){:target="_blank"}
