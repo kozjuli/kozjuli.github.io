@@ -34,40 +34,38 @@ layout: splash
 ## [St Louis Fed](https://www.stlouisfed.org/publications/){:target="_blank"} <a name="frbstl"></a>
 
 
-* **Interest Rates and Liquidity**, 2022-23,  with Sam Jordan-Wood
-    * [Liquidity Dries Up](https://research.stlouisfed.org/publications/economic-synopses/2022/08/23/liquidity-dries-up){:target="_blank"}
-    * [Where Do You Keep Your Liquid Wealth—Bank Deposits or T-bills?](https://research.stlouisfed.org/publications/economic-synopses/2022/12/16/where-do-you-keep-your-liquid-wealthbank-deposits-or-t-bills){:target="_blank"}
-    * [Market Liquidity and the Quantity Theory of Money](https://www.stlouisfed.org/on-the-economy/2022/aug/market-liquidity-quantity-theory-money){:target="_blank"}
-    * [The Many Interest Rates in 2022](https://www.stlouisfed.org/on-the-economy/2023/jan/many-interest-rates-2022){:target="_blank"}
-    * [Timely Topics podcast, Understanding Liquidity and the Fed Funds Rate](https://www.stlouisfed.org/timely-topics/understanding-liquidity-fed-funds-rate){:target="_blank"}
-    * [Marginal vs. Average Mortgage Rates](https://www.stlouisfed.org/on-the-economy/2023/jun/marginal-vs-average-mortgage-rates){:target="_blank"}
-    * [Assessing the Costs of Rolling Over Government Debt](https://research.stlouisfed.org/publications/economic-synopses/2023/06/02/assessing-the-costs-of-rolling-over-government-debt){:target="_blank"}
+* **Interest Rates and Liquidity** 
+    * [Liquidity Dries Up, 2022, with Sam Jordan-Wood](https://research.stlouisfed.org/publications/economic-synopses/2022/08/23/liquidity-dries-up){:target="_blank"}
+    * [Where Do You Keep Your Liquid Wealth—Bank Deposits or T-bills?, 2022, with Samuel Jordan-Wood](https://research.stlouisfed.org/publications/economic-synopses/2022/12/16/where-do-you-keep-your-liquid-wealthbank-deposits-or-t-bills){:target="_blank"}
+    * [Market Liquidity and the Quantity Theory of Money, 2022, with Samuel Jordan-Wood](https://www.stlouisfed.org/on-the-economy/2022/aug/market-liquidity-quantity-theory-money){:target="_blank"}
+    * [The Many Interest Rates in 2022, 2023, with Samuel Jordan-Wood](https://www.stlouisfed.org/on-the-economy/2023/jan/many-interest-rates-2022){:target="_blank"}
+    * [Timely Topics podcast, Understanding Liquidity and the Fed Funds Rate, 2022](https://www.stlouisfed.org/timely-topics/understanding-liquidity-fed-funds-rate){:target="_blank"}
+    * [Marginal vs. Average Mortgage Rates, 2023, with Samuel Jordan-Wood](https://www.stlouisfed.org/on-the-economy/2023/jun/marginal-vs-average-mortgage-rates){:target="_blank"}
+    * [Assessing the Costs of Rolling Over Government Debt, 2023, with Samuel Jordan-Wood](https://research.stlouisfed.org/publications/economic-synopses/2023/06/02/assessing-the-costs-of-rolling-over-government-debt){:target="_blank"}
+    * [The Maturity Structure of Treasuries Held by the Fed, 2019](https://www.stlouisfed.org/on-the-economy/2019/may/fed-maturity-contraction-program){:target="_blank"} 
+    * [Video interview, 2020](https://www.stlouisfed.org/open-vault/2020/june/lesson-liquidity-filmed-lake-with-economist){:target="_blank"}
 
-* **A Lesson on Liquidity** , 2020 
-    * [Open Vault Blog, (video)](https://www.stlouisfed.org/open-vault/2020/june/lesson-liquidity-filmed-lake-with-economist){:target="_blank"}
+* **Corporate Bond Spreads and the Pandemic**
+    * [Data, 2020, with Mahdi Ebsim,  Miguel Faria-e-Castro](https://research.stlouisfed.org/resources/covid-19/preliminary/daily-data-corporate-bond-spreads-pandemic){:target="_blank"}
+    * [Corporate Bond Spreads and the Pandemic, 2020, with Mahdi Ebsim and Miguel Faria-e-Castro](https://www.stlouisfed.org/on-the-economy/2020/april/effects-covid-19-monetary-policy-response-corporate-bond-market){:target="_blank"}
+    * [Corporate Bond Spreads and the Pandemic II: Heterogeneity across Sectors, 2020, with Mahdi Ebsim and  Miguel Faria-e-Castro](https://www.stlouisfed.org/on-the-economy/2020/april/corporate-bond-spreads-pandemic-heterogeneity-sectors){:target="_blank"}
+    * [Corporate Bond Spreads and the Pandemic III: Variance across Sectors and Firms, 2020, with Mahdi Ebsim](https://www.stlouisfed.org/on-the-economy/2020/may/corporate-bond-spreads-pandemic-variance-sectors-firms){:target="_blank"}
+    * [Corporate Bond Spreads and the Pandemic IV: Liquidity Buffers, 2020](https://www.stlouisfed.org/on-the-economy/2020/june/corporate-bond-spreads-pandemic-liquidity-buffers){:target="_blank"}
+    * [Credit Spreads during the Financial Crisis and COVID-19, 2021, with Miguel Faria-e-Castro](https://www.stlouisfed.org/on-the-economy/2021/february/credit-spreads-financial-crisis-covid19){:target="_blank"}
+    * [The Comovement between Credit Spreads, Corporate Debt and Liquid Assets in Recent Crises, 2021, Miguel Faria-e-Castro and Samuel Jordan-Wood](https://www.stlouisfed.org/on-the-economy/2021/november/comovement-credit-spreads-debt-assets-crises){:target="_blank"}
 
-* **Corporate Bond Spreads and the Pandemic**, 2021, with Mahdi Ebsim,  Miguel Faria-e-Castro, and Sam Jordan-Wood
-    * [Data](https://research.stlouisfed.org/resources/covid-19/preliminary/daily-data-corporate-bond-spreads-pandemic){:target="_blank"}
-    * [Corporate Bond Spreads and the Pandemic](https://www.stlouisfed.org/on-the-economy/2020/april/effects-covid-19-monetary-policy-response-corporate-bond-market){:target="_blank"}
-    * [Corporate Bond Spreads and the Pandemic II: Heterogeneity across Sectors](https://www.stlouisfed.org/on-the-economy/2020/april/corporate-bond-spreads-pandemic-heterogeneity-sectors){:target="_blank"}
-    * [Corporate Bond Spreads and the Pandemic III: Variance across Sectors and Firms](https://www.stlouisfed.org/on-the-economy/2020/may/corporate-bond-spreads-pandemic-variance-sectors-firms){:target="_blank"}
-    * [Corporate Bond Spreads and the Pandemic IV: Liquidity Buffers](https://www.stlouisfed.org/on-the-economy/2020/june/corporate-bond-spreads-pandemic-liquidity-buffers){:target="_blank"}
-    * [Credit Spreads during the Financial Crisis and COVID-19](https://www.stlouisfed.org/on-the-economy/2021/february/credit-spreads-financial-crisis-covid19){:target="_blank"}
-    * [The Comovement between Credit Spreads, Corporate Debt and Liquid Assets in Recent Crises](https://www.stlouisfed.org/on-the-economy/2021/november/comovement-credit-spreads-debt-assets-crises){:target="_blank"}
 
-* **The Maturity Structure of Treasuries Held by the Fed**, 2019
-    * [On the Economy Blog](https://www.stlouisfed.org/on-the-economy/2019/may/fed-maturity-contraction-program){:target="_blank"} 
+* **Inequality**
+    * [Residential Segregation and the Black-White College Gap, 2023, with Victoria Gregory, Hannah Rubinton, and Samuel Jordan-Wood](https://www.stlouisfed.org/on-the-economy/2023/nov/residential-segregation-black-white-college-gap){:target="_blank"}
+    * [What Is Driving Student Debt in the Eighth District?, 2019, with Mahdi Ebsim](https://www.stlouisfed.org/publications/regional-economist/second-quarter-2019/driving-student-debt){:target="_blank"}
+    * [Are Students Borrowing Too Much? Or Too Little?, 2019, with Mahdi Ebsim](https://www.stlouisfed.org/on-the-economy/2019/september/students-borrowing-too-much-too-little){:target="_blank"}
 
-* **What Is Driving Student Debt in the Eighth District?**, 2019, with Mahdi Ebsim
-    * [What Is Driving Student Debt in the Eighth District?](https://www.stlouisfed.org/publications/regional-economist/second-quarter-2019/driving-student-debt){:target="_blank"}
-    * [Are Students Borrowing Too Much? Or Too Little?](https://www.stlouisfed.org/on-the-economy/2019/september/students-borrowing-too-much-too-little){:target="_blank"}
-
-* **Tail Risk**, 2019
-    * [Tail Risk: Part 1, The Persistent Effects of the Great Recession](https://research.stlouisfed.org/publications/economic-synopses/2019/08/05/tail-risk-part-1-the-persistent-effects-of-the-great-recession){:target="_blank"}
-    * [Tail Risk: Part 2, The Missing Recovery After the Great Recession](https://research.stlouisfed.org/publications/economic-synopses/2019/08/06/tail-risk-part-2-the-missing-recovery-after-the-great-recession){:target="_blank"}
-    * [Tail Risk: Part 3, The Return on Safe and Liquid Assets](https://research.stlouisfed.org/publications/economic-synopses/2019/08/07/tail-risk-part-3-the-return-on-safe-and-liquid-assets){:target="_blank"}
-    * [COVID-19: Scarring Body and Mind](https://research.stlouisfed.org/publications/economic-synopses/2020/12/22/covid-19-scarring-body-and-mind){:target="_blank"}
-    * [Timely Topics (podcast), How the Great Recession Still Affects People's Perceptions](https://www.stlouisfed.org/timely-topics/how-great-recession-still-affects-perceptions?utm_source=twitter&utm_medium=SM&utm_content=stlouisfed&utm_campaign=9dbd699d-e9dc-4543-ba2f-4f23a9898703){:target="_blank"}
+* **Tail Risk**
+    * [Tail Risk: Part 1, The Persistent Effects of the Great Recession, 2019](https://research.stlouisfed.org/publications/economic-synopses/2019/08/05/tail-risk-part-1-the-persistent-effects-of-the-great-recession){:target="_blank"}
+    * [Tail Risk: Part 2, The Missing Recovery After the Great Recession, 2019](https://research.stlouisfed.org/publications/economic-synopses/2019/08/06/tail-risk-part-2-the-missing-recovery-after-the-great-recession){:target="_blank"}
+    * [Tail Risk: Part 3, The Return on Safe and Liquid Assets, 2019](https://research.stlouisfed.org/publications/economic-synopses/2019/08/07/tail-risk-part-3-the-return-on-safe-and-liquid-assets){:target="_blank"}
+    * [COVID-19: Scarring Body and Mind, 2020](https://research.stlouisfed.org/publications/economic-synopses/2020/12/22/covid-19-scarring-body-and-mind){:target="_blank"}
+    * [Timely Topics podcast, How the Great Recession Still Affects People's Perceptions, 2020](https://www.stlouisfed.org/timely-topics/how-great-recession-still-affects-perceptions?utm_source=twitter&utm_medium=SM&utm_content=stlouisfed&utm_campaign=9dbd699d-e9dc-4543-ba2f-4f23a9898703){:target="_blank"}
 
 ***
 
