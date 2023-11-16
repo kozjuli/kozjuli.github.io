@@ -8,8 +8,8 @@ main:
      url: /teaching/
    - title: "Policy & Blog"
      url: /blog/
-   - title: "Conferences"
-     url: /conferences/
+  #  - title: "Conferences"
+  #    url: /conferences/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
