@@ -42,6 +42,15 @@ with Emilio Espino, Fernando M. Martin and Juan M. Sanchez [Working paper](https
     > This paper studies a sovereign default model with fiscal and monetary policies to assess the policy response and evaluate the gains from flexibility in times of severe distress.
 
 ---
+## Work in Progress <a name="publications"></a>
+
+1. **Inequality Dynamics: A Life-Cycle Portfolio Model Perspective**  
+with Diego Daruich
+
+1. **The Loan-Bond Spread**  
+with Miguel Faria-e-Castro and Samuel Jordan-Wood
+
+---
 ## Publications <a name="publications"></a>
 
 1. **Domestic Policies and Sovereign Default**  
