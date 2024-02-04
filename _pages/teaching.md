@@ -19,5 +19,5 @@ layout: splash
 
 # Teaching
 
-- **Financial Economics**, Spring 2023, Master in Economics, Washington University in St. Louis
+- **Financial Economics**, Spring 2023-2024, Master in Economics, Washington University in St. Louis
 [syllabus](http://www.juliankozlowski.com/papers/syllabus_WUSTL23.pdf){:target="_blank"}
