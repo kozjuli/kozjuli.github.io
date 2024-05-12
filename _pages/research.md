@@ -54,7 +54,7 @@ with Miguel Faria-e-Castro and Samuel Jordan-Wood
 ## Publications <a name="publications"></a>
 
 1. **Domestic Policies and Sovereign Default**  
-with Emilio Espino, Fernando M. Martin and Juan M. Sanchez. *Conditional accept at American Economic Journal: Macroeconomics* [Working paper](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-017.pdf){:target="_blank"}
+with Emilio Espino, Fernando M. Martin and Juan M. Sanchez. *American Economic Journal: Macroeconomics, Forthcoming* [Working paper](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-017.pdf){:target="_blank"}
 
     > A model with two essential elements, sovereign default and distortionary fiscal and monetary policies, explains the interaction between sovereign debt, default risk and inflation in emerging countries. 
 
