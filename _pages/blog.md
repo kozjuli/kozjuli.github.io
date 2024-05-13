@@ -35,6 +35,7 @@ layout: splash
 
 
 * **Interest Rates and Liquidity** 
+    * [Rising Liquidity among U.S. Households and Its Policy Implications](https://www.stlouisfed.org/on-the-economy/2024/may/rising-liquidity-us-households-policy-implications){:target="_blank"}
     * [Liquidity Dries Up, 2022, with Samuel Jordan-Wood](https://research.stlouisfed.org/publications/economic-synopses/2022/08/23/liquidity-dries-up){:target="_blank"}
     * [Where Do You Keep Your Liquid Wealth—Bank Deposits or T-bills?, 2022, with Samuel Jordan-Wood](https://research.stlouisfed.org/publications/economic-synopses/2022/12/16/where-do-you-keep-your-liquid-wealthbank-deposits-or-t-bills){:target="_blank"}
     * [Market Liquidity and the Quantity Theory of Money, 2022, with Samuel Jordan-Wood](https://www.stlouisfed.org/on-the-economy/2022/aug/market-liquidity-quantity-theory-money){:target="_blank"}
