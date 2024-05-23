@@ -108,6 +108,8 @@ with Emilio Espino and Juan M. Sanchez. *Federal Reserve Bank of St. Louis Revie
  ---
 ## Discussions <a name="discussions"></a>
 
+1. **A Quantitative Theory of Hard and Soft Sovereign Defaults** by Grey Gordon and Pablo Guerron-Quintana, NBER Emerging Markets: Capital Flows, Debt Overhang, Inflation, and Growth, Spring 2024 [Discussion](http://www.juliankozlowski.com/papers/discussion_Guerron.pdf){:target="_blank"}
+
 1. **A Theory of Payments-Chain Crises** by Saki Bigio, 2023 IEF Workshop [Discussion](http://www.juliankozlowski.com/papers/discussion_bigio_kozlowski.pdf){:target="_blank"}
 
 1. **The COVID-19 Impact on Corporate Leverage and Financial Fragility** by Sharjil M. Haque and Richard Varghese, CEAR CenFIS Workshop: How is the Covid-19 experience changing finance? [Discussion](http://www.juliankozlowski.com/papers/discussion_HaqueVarghese_oct2021.pdf){:target="_blank"}
