@@ -44,11 +44,11 @@ with Emilio Espino, Fernando M. Martin and Juan M. Sanchez [Working paper](https
 ---
 ## Work in Progress <a name="publications"></a>
 
+1. **An Empirical Analysis of the Cost of Borrowing**  
+with Miguel Faria-e-Castro and Samuel Jordan-Wood
+
 1. **Inequality Dynamics: A Life-Cycle Portfolio Model Perspective**  
 with Diego Daruich
-
-1. **The Loan-Bond Spread**  
-with Miguel Faria-e-Castro and Samuel Jordan-Wood
 
 ---
 ## Publications <a name="publications"></a>
