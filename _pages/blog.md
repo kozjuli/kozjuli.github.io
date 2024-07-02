@@ -63,6 +63,7 @@ layout: splash
     * [Are Students Borrowing Too Much? Or Too Little?, 2019, with Mahdi Ebsim](https://www.stlouisfed.org/on-the-economy/2019/september/students-borrowing-too-much-too-little){:target="_blank"}
 
 * **Tail Risk**
+    * [Beyond the Mean: Exploring Tail Risks in Inflation Expectations, 2024](https://www.stlouisfed.org/on-the-economy/2024/jul/exploring-tail-risks-inflation-expectations){:target="_blank"}
     * [Tail Risk: Part 1, The Persistent Effects of the Great Recession, 2019](https://research.stlouisfed.org/publications/economic-synopses/2019/08/05/tail-risk-part-1-the-persistent-effects-of-the-great-recession){:target="_blank"}
     * [Tail Risk: Part 2, The Missing Recovery After the Great Recession, 2019](https://research.stlouisfed.org/publications/economic-synopses/2019/08/06/tail-risk-part-2-the-missing-recovery-after-the-great-recession){:target="_blank"}
     * [Tail Risk: Part 3, The Return on Safe and Liquid Assets, 2019](https://research.stlouisfed.org/publications/economic-synopses/2019/08/07/tail-risk-part-3-the-return-on-safe-and-liquid-assets){:target="_blank"}
