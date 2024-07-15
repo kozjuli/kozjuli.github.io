@@ -22,30 +22,34 @@ layout: splash
 ## Working Papers <a name="wp"></a>
 
 1. **Liquidity and Investment in General Equilibrium**  
-with Nicolas Caramp and Keisuke Teeple [Working paper](https://s3.amazonaws.com/real.stlouisfed.org/wp/2022/2022-022.pdf){:target="_blank"}
+with Nicolas Caramp and Keisuke Teeple [Working paper](https://doi.org/10.20955/wp.2022.022){:target="_blank"}
 
     > This paper studies the implications of trading frictions in financial markets for firms' investment and dividend choices and their aggregate consequences.
 
 1. **The Impact of Racial Segregation on College Attainment in Spatial Equilibrium**  
-with Victoria Gregory and Hannah Rubinton [Working paper](https://s3.amazonaws.com/real.stlouisfed.org/wp/2022/2022-036.pdf){:target="_blank"}
+with Victoria Gregory and Hannah Rubinton [Working paper](https://doi.org/10.20955/wp.2022.036){:target="_blank"}
 
     > We incorporate race into an overlapping-generations spatial-equilibrium model with neighborhood spillovers. Race matters in two ways: (i) the Black-White wage gap and (ii) homophily—the preferences of individuals over the racial composition of their neighborhood. These two forces generate a Black-White college gap of 22 percentage points, explaining about 80% of the college gap in the data for the St. Louis metro area.
 
+1. **Policy Rules and Large Crises in Emerging Markets**  
+with Emilio Espino, Fernando M. Martin and Juan M. Sanchez [Working paper](https://doi.org/10.20955/wp.2022.018){:target="_blank"}
+
+    > This paper studies a sovereign default model with fiscal and monetary policies to assess the policy response and evaluate the gains from flexibility in times of severe distress.
+
 1. **Credit and Liquidity Policies during Large Crises**  
-with Mahdi Ebsim and Miguel Faria-e-Castro [Working paper](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-035.pdf){:target="_blank"}
+with Mahdi Ebsim and Miguel Faria-e-Castro [Working paper](https://doi.org/10.20955/wp.2020.035){:target="_blank"}
 
     > We compare firms' financials during the Great Financial Crisis (GFC) and COVID-19. While the two crises featured similar increases in credit spreads, debt and liquid assets decreased during the GFC, but increased during COVID-19. In the cross section, leverage was the main determinant of credit spreads and investment during the GFC, but liquidity was more important during COVID-19. We augment a quantitative model of firm capital structure with a motive to hold liquid assets. The GFC resembled a combination of productivity and financial shocks, while COVID-19 also featured liquidity shocks. We study the state-dependent effects of credit and liquidity policies.
 
-1. **Policy Rules and Large Crises in Emerging Markets**  
-with Emilio Espino, Fernando M. Martin and Juan M. Sanchez [Working paper](https://s3.amazonaws.com/real.stlouisfed.org/wp/2022/2022-018.pdf){:target="_blank"}
 
-    > This paper studies a sovereign default model with fiscal and monetary policies to assess the policy response and evaluate the gains from flexibility in times of severe distress.
+1. **An Empirical Analysis of the Cost of Borrowing**  
+with Miguel Faria-e-Castro and Samuel Jordan-Wood [Working paper](https://doi.org/10.20955/wp.2024.016){:target="_blank"}
+
+    > Within firms, borrowing rates exhibit significant dispersion even after accounting for security and observable firm characteristics. Obtaining a bank loan is cheaper than issuing a corporate bond. Changes in borrowing costs have lasting negative effects on firm-level outcomes. 
 
 ---
 ## Work in Progress <a name="publications"></a>
 
-1. **An Empirical Analysis of the Cost of Borrowing**  
-with Miguel Faria-e-Castro and Samuel Jordan-Wood
 
 1. **Inequality Dynamics: A Life-Cycle Portfolio Model Perspective**  
 with Diego Daruich
@@ -54,12 +58,12 @@ with Diego Daruich
 ## Publications <a name="publications"></a>
 
 1. **Domestic Policies and Sovereign Default**  
-with Emilio Espino, Fernando M. Martin and Juan M. Sanchez. *American Economic Journal: Macroeconomics, Forthcoming* [Working paper](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-017.pdf){:target="_blank"}, [Publication](https://www.aeaweb.org/articles?id=10.1257/mac.20220294){:target="_blank"}
+with Emilio Espino, Fernando M. Martin and Juan M. Sanchez. *American Economic Journal: Macroeconomics, Forthcoming* [Working paper](hhttps://doi.org/10.20955/wp.2020.017){:target="_blank"}, [Publication](https://www.aeaweb.org/articles?id=10.1257/mac.20220294){:target="_blank"}
 
     > A model with two essential elements, sovereign default and distortionary fiscal and monetary policies, explains the interaction between sovereign debt, default risk and inflation in emerging countries. 
 
 1.  **Macroeconomic Implications of Uniform Pricing**  
-with Diego Daruich *American Economic Journal: Macroeconomics, July 2023* [Working paper](https://s3.amazonaws.com/real.stlouisfed.org/wp/2019/2019-024.pdf?1){:target="_blank"}, [Publication](https://doi.org/10.1257/mac.20210172){:target="_blank"}
+with Diego Daruich *American Economic Journal: Macroeconomics, July 2023* [Working paper](https://doi.org/10.20955/wp.2018.010){:target="_blank"}, [Publication](https://doi.org/10.1257/mac.20210172){:target="_blank"}
 
     > We introduce novel data from Argentina and show that there is uniform pricing (chains set the same prices across stores both within and across regions), and prices react relatively little to local conditions. We build a model to understand the macroeconomic implications of uniform pricing. Our key finding is that consumption aggregate elasticities tend to be smaller than local elasticities, as prices react more to aggregate conditions when prices are set uniformly across regions.
 
