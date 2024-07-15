@@ -58,7 +58,7 @@ with Diego Daruich
 ## Publications <a name="publications"></a>
 
 1. **Domestic Policies and Sovereign Default**  
-with Emilio Espino, Fernando M. Martin and Juan M. Sanchez. *American Economic Journal: Macroeconomics, Forthcoming* [Working paper](hhttps://doi.org/10.20955/wp.2020.017){:target="_blank"}, [Publication](https://www.aeaweb.org/articles?id=10.1257/mac.20220294){:target="_blank"}
+with Emilio Espino, Fernando M. Martin and Juan M. Sanchez. *American Economic Journal: Macroeconomics, Forthcoming* [Working paper](https://doi.org/10.20955/wp.2020.017){:target="_blank"}, [Publication](https://www.aeaweb.org/articles?id=10.1257/mac.20220294){:target="_blank"}
 
     > A model with two essential elements, sovereign default and distortionary fiscal and monetary policies, explains the interaction between sovereign debt, default risk and inflation in emerging countries. 
 
