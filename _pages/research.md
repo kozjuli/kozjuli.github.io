@@ -22,9 +22,14 @@ layout: splash
 ## Working Papers <a name="wp"></a>
 
 1. **Liquidity and Investment in General Equilibrium**  
-with Nicolas Caramp and Keisuke Teeple [Working paper](https://doi.org/10.20955/wp.2022.022){:target="_blank"}
+with Nicolas Caramp and Keisuke Teeple, *Revise and Resubmit, Review of Economic Studies* [Working paper](https://doi.org/10.20955/wp.2022.022){:target="_blank"}
 
     > This paper studies the implications of trading frictions in financial markets for firms' investment and dividend choices and their aggregate consequences.
+
+1. **Credit and Liquidity Policies during Large Crises**  
+with Mahdi Ebsim and Miguel Faria-e-Castro, *Revise and Resubmit, JPE Macro* [Working paper](https://doi.org/10.20955/wp.2020.035){:target="_blank"}
+
+    > We compare firms' financials during the Great Financial Crisis (GFC) and COVID-19. While the two crises featured similar increases in credit spreads, debt and liquid assets decreased during the GFC, but increased during COVID-19. In the cross section, leverage was the main determinant of credit spreads and investment during the GFC, but liquidity was more important during COVID-19. We augment a quantitative model of firm capital structure with a motive to hold liquid assets. The GFC resembled a combination of productivity and financial shocks, while COVID-19 also featured liquidity shocks. We study the state-dependent effects of credit and liquidity policies.
 
 1. **The Impact of Racial Segregation on College Attainment in Spatial Equilibrium**  
 with Victoria Gregory and Hannah Rubinton [Working paper](https://doi.org/10.20955/wp.2022.036){:target="_blank"}
@@ -35,12 +40,6 @@ with Victoria Gregory and Hannah Rubinton [Working paper](https://doi.org/10.209
 with Emilio Espino, Fernando M. Martin and Juan M. Sanchez [Working paper](https://doi.org/10.20955/wp.2022.018){:target="_blank"}
 
     > This paper studies a sovereign default model with fiscal and monetary policies to assess the policy response and evaluate the gains from flexibility in times of severe distress.
-
-1. **Credit and Liquidity Policies during Large Crises**  
-with Mahdi Ebsim and Miguel Faria-e-Castro, *Revise and Resubmit, JPE Macro* [Working paper](https://doi.org/10.20955/wp.2020.035){:target="_blank"}
-
-    > We compare firms' financials during the Great Financial Crisis (GFC) and COVID-19. While the two crises featured similar increases in credit spreads, debt and liquid assets decreased during the GFC, but increased during COVID-19. In the cross section, leverage was the main determinant of credit spreads and investment during the GFC, but liquidity was more important during COVID-19. We augment a quantitative model of firm capital structure with a motive to hold liquid assets. The GFC resembled a combination of productivity and financial shocks, while COVID-19 also featured liquidity shocks. We study the state-dependent effects of credit and liquidity policies.
-
 
 1. **An Empirical Analysis of the Cost of Borrowing**  
 with Miguel Faria-e-Castro and Samuel Jordan-Wood [Working paper](https://doi.org/10.20955/wp.2024.016){:target="_blank"}
