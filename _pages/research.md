@@ -55,6 +55,7 @@ with Diego Daruich
 
 1. **The Cost of Capital and Misallocation in the United States**
 with Miguel Faria-e-Castro and Jeremy Majerovitz
+
 ---
 ## Publications <a name="publications"></a>
 
