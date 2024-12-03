@@ -53,7 +53,7 @@ with Miguel Faria-e-Castro and Samuel Jordan-Wood [Working paper](https://doi.or
 1. **Inequality Dynamics: A Life-Cycle Portfolio Model Perspective**  
 with Diego Daruich
 
-1. **The Cost of Capital and Misallocation in the United States**
+1. **The Cost of Capital and Misallocation in the United States**  
 with Miguel Faria-e-Castro and Jeremy Majerovitz
 
 ---
