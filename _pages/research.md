@@ -26,22 +26,22 @@ with Nicolas Caramp and Keisuke Teeple, *Revise and Resubmit, Review of Economic
 
     > This paper studies the implications of trading frictions in financial markets for firms' investment and dividend choices and their aggregate consequences.
 
-1. **Credit and Liquidity Policies during Large Crises**  
+2. **Credit and Liquidity Policies during Large Crises**  
 with Mahdi Ebsim and Miguel Faria-e-Castro, *Revise and Resubmit, JPE Macro* [Working paper](https://doi.org/10.20955/wp.2020.035){:target="_blank"}
 
     > We compare firms' financials during the Great Financial Crisis (GFC) and COVID-19. While the two crises featured similar increases in credit spreads, debt and liquid assets decreased during the GFC, but increased during COVID-19. In the cross section, leverage was the main determinant of credit spreads and investment during the GFC, but liquidity was more important during COVID-19. We augment a quantitative model of firm capital structure with a motive to hold liquid assets. The GFC resembled a combination of productivity and financial shocks, while COVID-19 also featured liquidity shocks. We study the state-dependent effects of credit and liquidity policies.
 
-1. **Policy Rules and Large Crises in Emerging Markets**  
+3. **Policy Rules and Large Crises in Emerging Markets**  
 with Emilio Espino, Fernando M. Martin and Juan M. Sanchez *Revise and Resubmit, Journal of International Economics* [Working paper](https://doi.org/10.20955/wp.2022.018){:target="_blank"}
 
     > This paper studies a sovereign default model with fiscal and monetary policies to assess the policy response and evaluate the gains from flexibility in times of severe distress.
 
-1. **The Impact of Racial Segregation on College Attainment in Spatial Equilibrium**  
+4. **The Impact of Racial Segregation on College Attainment in Spatial Equilibrium**  
 with Victoria Gregory and Hannah Rubinton [Working paper](https://s3.amazonaws.com/real.stlouisfed.org/wp/2022/2022-036.pdf){:target="_blank"}
 
     > We incorporate race into an overlapping-generations spatial-equilibrium model with neighborhood spillovers. Race matters in two ways: (i) the Black-White wage gap and (ii) homophily—the preferences of individuals over the racial composition of their neighborhood. These two forces generate a Black-White college gap of 22 percentage points, explaining about 80% of the college gap in the data for the St. Louis metro area.
 
-1. **An Empirical Analysis of the Cost of Borrowing**  
+5. **An Empirical Analysis of the Cost of Borrowing**  
 with Miguel Faria-e-Castro and Samuel Jordan-Wood [Working paper](https://doi.org/10.20955/wp.2024.016){:target="_blank"}
 
     > Within firms, borrowing rates exhibit significant dispersion even after accounting for security and observable firm characteristics. Obtaining a bank loan is cheaper than issuing a corporate bond. Changes in borrowing costs have lasting negative effects on firm-level outcomes. 
@@ -50,16 +50,16 @@ with Miguel Faria-e-Castro and Samuel Jordan-Wood [Working paper](https://doi.or
 ## Work in Progress <a name="publications"></a>
 
 
-1. **Inequality Dynamics: A Life-Cycle Portfolio Model Perspective**  
+6. **Inequality Dynamics: A Life-Cycle Portfolio Model Perspective**  
 with Diego Daruich
 
-1. **The Cost of Capital and Misallocation in the United States**  
+7. **The Cost of Capital and Misallocation in the United States**  
 with Miguel Faria-e-Castro and Jeremy Majerovitz
 
 ---
 ## Publications <a name="publications"></a>
 
-1. **Domestic Policies and Sovereign Default**  
+8. **Domestic Policies and Sovereign Default**  
 with Emilio Espino, Fernando M. Martin and Juan M. Sanchez. *American Economic Journal: Macroeconomics, Forthcoming* [Working paper](https://doi.org/10.20955/wp.2020.017){:target="_blank"}, [Publication](https://www.aeaweb.org/articles?id=10.1257/mac.20220294){:target="_blank"}
 
     > A model with two essential elements, sovereign default and distortionary fiscal and monetary policies, explains the interaction between sovereign debt, default risk and inflation in emerging countries. 
@@ -104,7 +104,7 @@ with Emilio Espino and Juan Sanchez, *Journal of Economic Theory 2018, vol. 176*
 ---
 ## Other publications <a name="other"></a>
 
-1. **External Shocks versus Domestic Policies in Emerging Markets**  
+16. **External Shocks versus Domestic Policies in Emerging Markets**  
 with Emilio Espino, Fernando M. Martin and Juan M. Sanchez. *Federal Reserve Bank of St. Louis Review, Second Quarter 2023* [Working paper](https://doi.org/10.20955/r.105.108-121){:target="_blank"}, [Publication](https://doi.org/10.20955/r.105.108-121){:target="_blank"}
 
 1. **Stylized Facts on the Organization of Small Business Partnerships**  
