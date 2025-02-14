@@ -114,7 +114,7 @@ with Emilio Espino and Juan M. Sanchez. *Federal Reserve Bank of St. Louis Revie
  ---
 ## Discussions <a name="discussions"></a>
 
-1. **Safe Assets, Collateralized Lending and Monetary Policy** by Moritz Lenel, BSE Summer Forum Workshop on Safety, Liquidity, and the Macroeconomy, June 2024 [Discussion](BSE_2024_Kozlowski_Lenel.pdf){:target="_blank"}
+1. **Safe Assets, Collateralized Lending and Monetary Policy** by Moritz Lenel, BSE Summer Forum Workshop on Safety, Liquidity, and the Macroeconomy, June 2024 [Discussion](http://www.juliankozlowski.com/papers/BSE_2024_Kozlowski_Lenel.pdf){:target="_blank"}
 
 1. **A Quantitative Theory of Hard and Soft Sovereign Defaults** by Grey Gordon and Pablo Guerron-Quintana, NBER Emerging Markets: Capital Flows, Debt Overhang, Inflation, and Growth, Spring 2024 [Discussion](http://www.juliankozlowski.com/papers/discussion_Guerron.pdf){:target="_blank"}
 
