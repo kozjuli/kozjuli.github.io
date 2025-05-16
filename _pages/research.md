@@ -54,7 +54,7 @@ with Miguel Faria-e-Castro and Samuel Jordan-Wood [Working paper](https://doi.or
 with Diego Daruich
 
 7. **The Cost of Capital and Misallocation in the United States**  
-with Miguel Faria-e-Castro and Jeremy Majerovitz
+with Miguel Faria-e-Castro and Jeremy Majerovitz [Slides](http://www.juliankozlowski.com/papers/CostCapitalSlides_20250516.pdf){:target="_blank"}
 
 ---
 ## Publications <a name="publications"></a>
