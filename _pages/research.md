@@ -47,7 +47,7 @@ with Miguel Faria-e-Castro and Samuel Jordan-Wood [Working paper](https://doi.or
     > Within firms, borrowing rates exhibit significant dispersion even after accounting for security and observable firm characteristics. Obtaining a bank loan is cheaper than issuing a corporate bond. Changes in borrowing costs have lasting negative effects on firm-level outcomes. 
 
 6. **The Cost of Capital and Misallocation in the United States**  
-with Miguel Faria-e-Castro and Jeremy Majerovitz [Slides](http://www.juliankozlowski.com/papers/CostCapitalSlides_20250516.pdf){:target="_blank"}
+with Miguel Faria-e-Castro and Jeremy Majerovitz [Working paper](https://doi.org/10.20955/wp.2025.013){:target="_blank"}
 
     > Firm-level borrowing cost dispersion modestly distorts capital allocation in normal times but significantly amplifies misallocation during crises.
 
