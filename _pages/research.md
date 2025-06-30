@@ -62,7 +62,7 @@ with Diego Daruich
 ## Publications <a name="publications"></a>
 
 8. **Domestic Policies and Sovereign Default**  
-with Emilio Espino, Fernando M. Martin and Juan M. Sanchez. *American Economic Journal: Macroeconomics, Forthcoming* [Working paper](https://doi.org/10.20955/wp.2020.017){:target="_blank"}, [Publication](https://www.aeaweb.org/articles?id=10.1257/mac.20220294){:target="_blank"}
+with Emilio Espino, Fernando M. Martin and Juan M. Sanchez. *American Economic Journal: Macroeconomics, 2025, vol. 17(3) * [Working paper](https://doi.org/10.20955/wp.2020.017){:target="_blank"}, [Publication](https://www.aeaweb.org/articles?id=10.1257/mac.20220294){:target="_blank"}
 
     > A model with two essential elements, sovereign default and distortionary fiscal and monetary policies, explains the interaction between sovereign debt, default risk and inflation in emerging countries. 
 
@@ -107,7 +107,7 @@ with Emilio Espino and Juan Sanchez, *Journal of Economic Theory 2018, vol. 176*
 ## Other publications <a name="other"></a>
 
 16. **The Dynamics of Long-Run Inflation Expectations: A Market-Based Perspective**
-with Anna Cole and Joseph Martorana. *Federal Reserve Bank of St. Louis Review, forthcoming.*
+with Anna Cole and Joseph Martorana. *Federal Reserve Bank of St. Louis Review, forthcoming.* [Working paper](https://doi.org/10.20955/wp.2025.015){:target="_blank"}
 
 17. **External Shocks versus Domestic Policies in Emerging Markets**  
 with Emilio Espino, Fernando M. Martin and Juan M. Sanchez. *Federal Reserve Bank of St. Louis Review, Second Quarter 2023* [Working paper](https://doi.org/10.20955/r.105.108-121){:target="_blank"}, [Publication](https://doi.org/10.20955/r.105.108-121){:target="_blank"}
