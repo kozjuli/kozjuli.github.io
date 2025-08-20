@@ -27,7 +27,7 @@ with Nicolas Caramp and Keisuke Teeple, *Revise and Resubmit, Review of Economic
     > This paper studies the implications of trading frictions in financial markets for firms' investment and dividend choices and their aggregate consequences.
 
 2. **When Liquidity Matters: Firm Balance Sheets during Large Crises**  
-with Mahdi Ebsim and Miguel Faria-e-Castro, *Revise and Resubmit, JPE Macro* [Working paper](http://www.juliankozlowski.com/papers/EFK_R2.pdf){:target="_blank"}
+with Mahdi Ebsim and Miguel Faria-e-Castro, *Revise and Resubmit, JPE Macro* [Working paper](https://doi.org/10.20955/wp.2025.019){:target="_blank"}
 supersedes [Credit and Liquidity Policies during Large Crises](https://doi.org/10.20955/wp.2020.035){:target="_blank"}
 
     > We compare firms' financials during the Great Financial Crisis (GFC) and COVID-19. While the two crises featured similar increases in credit spreads, debt and liquid assets decreased during the GFC, but increased during COVID-19. In the cross section, leverage was the main determinant of credit spreads and investment during the GFC, but liquidity was more important during COVID-19. We augment a quantitative model of firm capital structure with a motive to hold liquid assets. The GFC resembled a combination of productivity and financial shocks, while COVID-19 also featured liquidity shocks. We study the state-dependent effects of credit and liquidity policies.
@@ -63,7 +63,7 @@ with Emilio Espino, Fernando M. Martin and Juan M. Sanchez *Conditionally accept
     > This paper studies a sovereign default model with fiscal and monetary policies to assess the policy response and evaluate the gains from flexibility in times of severe distress.
 
 8. **Domestic Policies and Sovereign Default**  
-with Emilio Espino, Fernando M. Martin and Juan M. Sanchez. *American Economic Journal: Macroeconomics, 2025, vol. 17(3) * [Working paper](https://doi.org/10.20955/wp.2020.017){:target="_blank"}, [Publication](https://www.aeaweb.org/articles?id=10.1257/mac.20220294){:target="_blank"}
+with Emilio Espino, Fernando M. Martin and Juan M. Sanchez. *American Economic Journal: Macroeconomics, 2025, vol. 17(3)* [Working paper](https://doi.org/10.20955/wp.2020.017){:target="_blank"}, [Publication](https://www.aeaweb.org/articles?id=10.1257/mac.20220294){:target="_blank"}
 
     > A model with two essential elements, sovereign default and distortionary fiscal and monetary policies, explains the interaction between sovereign debt, default risk and inflation in emerging countries. 
 
