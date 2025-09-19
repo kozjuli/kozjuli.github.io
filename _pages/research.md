@@ -108,7 +108,7 @@ with Emilio Espino and Juan Sanchez, *Journal of Economic Theory 2018, vol. 176*
 ## Other publications <a name="other"></a>
 
 16. **The Dynamics of Long-Run Inflation Expectations: A Market-Based Perspective**
-with Anna Cole and Joseph Martorana. *Federal Reserve Bank of St. Louis Review, forthcoming.* [Working paper](https://doi.org/10.20955/wp.2025.015){:target="_blank"}
+with Anna Cole and Joseph Martorana. *Federal Reserve Bank of St. Louis Review, Third Quarter 2025* [Working paper](https://doi.org/10.20955/wp.2025.015){:target="_blank"}
 
 17. **External Shocks versus Domestic Policies in Emerging Markets**  
 with Emilio Espino, Fernando M. Martin and Juan M. Sanchez. *Federal Reserve Bank of St. Louis Review, Second Quarter 2023* [Working paper](https://doi.org/10.20955/r.105.108-121){:target="_blank"}, [Publication](https://doi.org/10.20955/r.105.108-121){:target="_blank"}
