@@ -68,7 +68,7 @@ with Emilio Espino, Fernando M. Martin and Juan M. Sanchez. *American Economic J
     > A model with two essential elements, sovereign default and distortionary fiscal and monetary policies, explains the interaction between sovereign debt, default risk and inflation in emerging countries. 
 
 9.  **Macroeconomic Implications of Uniform Pricing**  
-with Diego Daruich *American Economic Journal: Macroeconomics, July 2023* [Working paper](https://doi.org/10.20955/wp.2018.010){:target="_blank"}, [Publication](https://doi.org/10.1257/mac.20210172){:target="_blank"}
+with Diego Daruich *American Economic Journal: Macroeconomics, July 2023*  [Publication](https://doi.org/10.1257/mac.20210172){:target="_blank"}
 
     > We introduce novel data from Argentina and show that there is uniform pricing (chains set the same prices across stores both within and across regions), and prices react relatively little to local conditions. We build a model to understand the macroeconomic implications of uniform pricing. Our key finding is that consumption aggregate elasticities tend to be smaller than local elasticities, as prices react more to aggregate conditions when prices are set uniformly across regions.
 
