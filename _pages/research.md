@@ -58,7 +58,7 @@ with Diego Daruich
 ## Publications <a name="publications"></a>
 
 7. **Policy Rules and Large Crises in Emerging Markets**  
-with Emilio Espino, Fernando M. Martin and Juan M. Sanchez *Conditionally accepted, Journal of International Economics* [Working paper](https://doi.org/10.20955/wp.2022.018){:target="_blank"}
+with Emilio Espino, Fernando M. Martin and Juan M. Sanchez * Accepted, Journal of International Economics* [Working paper](https://doi.org/10.20955/wp.2022.018){:target="_blank"}
 
     > This paper studies a sovereign default model with fiscal and monetary policies to assess the policy response and evaluate the gains from flexibility in times of severe distress.
 
@@ -108,7 +108,7 @@ with Emilio Espino and Juan Sanchez, *Journal of Economic Theory 2018, vol. 176*
 ## Other publications <a name="other"></a>
 
 16. **The Dynamics of Long-Run Inflation Expectations: A Market-Based Perspective**
-with Anna Cole and Joseph Martorana. *Federal Reserve Bank of St. Louis Review, forthcoming.* [Working paper](https://doi.org/10.20955/wp.2025.015){:target="_blank"}
+with Anna Cole and Joseph Martorana. *Federal Reserve Bank of St. Louis Review, Third Quarter 2025* [Working paper](https://doi.org/10.20955/wp.2025.015){:target="_blank"}
 
 17. **External Shocks versus Domestic Policies in Emerging Markets**  
 with Emilio Espino, Fernando M. Martin and Juan M. Sanchez. *Federal Reserve Bank of St. Louis Review, Second Quarter 2023* [Working paper](https://doi.org/10.20955/r.105.108-121){:target="_blank"}, [Publication](https://doi.org/10.20955/r.105.108-121){:target="_blank"}
