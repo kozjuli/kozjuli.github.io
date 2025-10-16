@@ -58,7 +58,7 @@ with Diego Daruich
 ## Publications <a name="publications"></a>
 
 7. **Policy Rules and Large Crises in Emerging Markets**  
-with Emilio Espino, Fernando M. Martin and Juan M. Sanchez *Accepted, Journal of International Economics* [Working paper](https://doi.org/10.20955/wp.2022.018){:target="_blank"}
+with Emilio Espino, Fernando M. Martin and Juan M. Sanchez *Journal of International Economics, 2025, vol. 158* [Working paper](https://doi.org/10.20955/wp.2022.018){:target="_blank"} [Publication](https://doi.org/10.1016/j.jinteco.2025.104179){:target="_blank"}
 
     > This paper studies a sovereign default model with fiscal and monetary policies to assess the policy response and evaluate the gains from flexibility in times of severe distress.
 
