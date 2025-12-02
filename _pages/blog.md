@@ -39,12 +39,11 @@ layout: splash
     * [Are U.S. Treasuries Still “Convenient”?, 2025, with Nicholas Sullivan](https://www.stlouisfed.org/on-the-economy/2025/oct/are-u-s-treasuries-still-convenient){:target="_blank"}
     * [Rising Liquidity among U.S. Households and Its Policy Implications, 2024, with Samuel Jordan-Wood](https://www.stlouisfed.org/on-the-economy/2024/may/rising-liquidity-us-households-policy-implications){:target="_blank"}
     * [Marginal vs. Average Mortgage Rates, 2023, with Samuel Jordan-Wood](https://www.stlouisfed.org/on-the-economy/2023/jun/marginal-vs-average-mortgage-rates){:target="_blank"}
-    * [Liquidity Dries Up, 2022, with Samuel Jordan-Wood](https://research.stlouisfed.org/publications/economic-synopses/2022/08/23/liquidity-dries-up){:target="_blank"}
-    * [Where Do You Keep Your Liquid Wealth—Bank Deposits or T-bills?, 2022, with Samuel Jordan-Wood](https://research.stlouisfed.org/publications/economic-synopses/2022/12/16/where-do-you-keep-your-liquid-wealthbank-deposits-or-t-bills){:target="_blank"}
+    * [Liquidity Dries Up, 2022, with Samuel Jordan-Wood](https://fraser.stlouisfed.org/title/economic-synopses-6715/liquidity-dries-663069){:target="_blank"}
+    * [Where Do You Keep Your Liquid Wealth—Bank Deposits or T-bills?, 2022, with Samuel Jordan-Wood](https://fraser.stlouisfed.org/title/economic-synopses-6715/keep-liquid-wealth-bank-deposits-t-bills-663078){:target="_blank"}
     * [Market Liquidity and the Quantity Theory of Money, 2022, with Samuel Jordan-Wood](https://www.stlouisfed.org/on-the-economy/2022/aug/market-liquidity-quantity-theory-money){:target="_blank"}
     * [The Many Interest Rates in 2022, 2023, with Samuel Jordan-Wood](https://www.stlouisfed.org/on-the-economy/2023/jan/many-interest-rates-2022){:target="_blank"}
     * [Timely Topics podcast, Understanding Liquidity and the Fed Funds Rate, 2022](https://www.stlouisfed.org/timely-topics/understanding-liquidity-fed-funds-rate){:target="_blank"}
-    * [Marginal vs. Average Mortgage Rates, 2023, with Samuel Jordan-Wood](https://www.stlouisfed.org/on-the-economy/2023/jun/marginal-vs-average-mortgage-rates){:target="_blank"}
     * [Assessing the Costs of Rolling Over Government Debt, 2023, with Samuel Jordan-Wood](https://research.stlouisfed.org/publications/economic-synopses/2023/06/02/assessing-the-costs-of-rolling-over-government-debt){:target="_blank"}
     * [The Maturity Structure of Treasuries Held by the Fed, 2019](https://www.stlouisfed.org/on-the-economy/2019/may/fed-maturity-contraction-program){:target="_blank"} 
     * [Video interview, 2020](https://www.stlouisfed.org/open-vault/2020/june/lesson-liquidity-filmed-lake-with-economist){:target="_blank"}
