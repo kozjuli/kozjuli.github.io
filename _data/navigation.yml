@@ -1,12 +1,12 @@
 # main links
 main:
-   - title: "Contact"
+   - title: "Home"
      url: /
    - title: "Research"
      url: /research/
    - title: "Teaching"
      url: /teaching/
-   - title: "Policy & Blog"
+   - title: "Policy & Media"
      url: /blog/
   #  - title: "Conferences"
   #    url: /conferences/

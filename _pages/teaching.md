@@ -9,4 +9,4 @@ layout: splash
 # Teaching
 
 - **Financial Economics**, Spring 2023, 2024, 2025, Master in Economics, Washington University in St. Louis
-[syllabus](/papers/syllabus_WUSTL25.pdf){:target="_blank"}
+[syllabus](/papers/syllabus_WUSTL25.pdf){:target="_blank" rel="noopener noreferrer"}
