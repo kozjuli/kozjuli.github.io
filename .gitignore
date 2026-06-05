@@ -10,5 +10,6 @@ _site
 codekit-config.json
 example/_site
 Gemfile.lock
+vendor/bundle/
 node_modules
 npm-debug.log*
