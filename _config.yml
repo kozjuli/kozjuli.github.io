@@ -20,8 +20,8 @@ title                    : "Julian Kozlowski"
 title_separator          : "-"
 name                     : "Julian Kozlowski"
 description              : "Julian Kozlowski website."
-url                      : # "https://www.juliankozlowski.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+url                      : "https://www.juliankozlowski.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kozjuli/kozjuli.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -92,9 +92,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : "UA-121981531-1"
+    tracking_id          : "G-PK9T3DH9SS"
     anonymize_ip         : # true, false (default)
 
 
@@ -133,7 +133,6 @@ author:
 
 
 # Reading Files
-include: ["_pages"]
 include:
   - .htaccess
   - _pages
