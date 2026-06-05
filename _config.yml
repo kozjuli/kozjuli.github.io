@@ -86,9 +86,13 @@ og_image                 : "/assets/kozlowski.jpg" # Open Graph/Twitter default 
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type                   : "Person" # Person or Organization (defaults to Person)
+  name                   : "Julian Kozlowski" # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://orcid.org/0000-0001-8464-2470"
+    - "https://scholar.google.com/citations?user=KRX0xecAAAAJ&hl=en"
+    - "https://ideas.repec.org/f/pko790.html"
+    - "https://research.stlouisfed.org/econ/kozlowski/"
 
 # Analytics
 analytics:

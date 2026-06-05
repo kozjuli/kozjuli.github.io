@@ -12,22 +12,32 @@ layout: splash
 ## Working Papers <a name="wp"></a>
 
 1. **Liquidity and Investment in General Equilibrium**<br>
-with Nicolas Caramp and Keisuke Teeple, *Revise and Resubmit, Review of Economic Studies* [Working paper](https://doi.org/10.20955/wp.2022.022){:target="_blank" rel="noopener noreferrer"}
+with Nicolas Caramp and Keisuke Teeple<br>
+Status: *Revise and Resubmit, Review of Economic Studies*<br>
+Date: June 2024<br>
+Materials: [Working paper](https://doi.org/10.20955/wp.2022.022){:target="_blank" rel="noopener noreferrer"}
 
     > This paper studies the implications of trading frictions in financial markets for firms' investment and dividend choices and their aggregate consequences.
 
 2. **The Impact of Racial Segregation on College Attainment in Spatial Equilibrium**<br>
-with Victoria Gregory and Hannah Rubinton, *Reject and Resubmit, Review of Economic Studies* [Working paper](https://s3.amazonaws.com/real.stlouisfed.org/wp/2022/2022-036.pdf){:target="_blank" rel="noopener noreferrer"}
+with Victoria Gregory and Hannah Rubinton<br>
+Status: *Reject and Resubmit, Review of Economic Studies*<br>
+Date: November 2024<br>
+Materials: [Working paper](https://doi.org/10.20955/wp.2022.036){:target="_blank" rel="noopener noreferrer"}
 
     > We incorporate race into an overlapping-generations spatial-equilibrium model with neighborhood spillovers. Race matters in two ways: (i) the Black-White wage gap and (ii) homophily—the preferences of individuals over the racial composition of their neighborhood. These two forces generate a Black-White college gap of 22 percentage points, explaining about 80% of the college gap in the data for the St. Louis metro area.
 
 3. **The Cost of Capital and Misallocation in the United States**<br>
-with Miguel Faria-e-Castro and Jeremy Majerovitz [Working paper](https://doi.org/10.20955/wp.2025.013){:target="_blank" rel="noopener noreferrer"}
+with Miguel Faria-e-Castro and Jeremy Majerovitz<br>
+Date: June 2025<br>
+Materials: [Working paper](https://doi.org/10.20955/wp.2025.013){:target="_blank" rel="noopener noreferrer"}
 
     > Firm-level borrowing cost dispersion modestly distorts capital allocation in normal times but significantly amplifies misallocation during crises.
 
 4. **An Empirical Analysis of the Cost of Borrowing**<br>
-with Miguel Faria-e-Castro and Samuel Jordan-Wood [Working paper](https://doi.org/10.20955/wp.2024.016){:target="_blank" rel="noopener noreferrer"}
+with Miguel Faria-e-Castro and Samuel Jordan-Wood<br>
+Date: December 2025<br>
+Materials: [Working paper](https://doi.org/10.20955/wp.2024.016){:target="_blank" rel="noopener noreferrer"}
 
     > Within firms, borrowing rates exhibit significant dispersion even after accounting for security and observable firm characteristics. Obtaining a bank loan is cheaper than issuing a corporate bond. Changes in borrowing costs have lasting negative effects on firm-level outcomes.
 

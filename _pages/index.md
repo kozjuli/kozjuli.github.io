@@ -20,4 +20,4 @@ I graduated from New York University with a Ph.D. in Economics in May 2018.
 
 Contact at <kozjuli@gmail.com>
 
-[*Curriculum Vitae*](/papers/Kozlowski_cv.pdf){:target="_blank" rel="noopener noreferrer"} // [Google scholar](https://scholar.google.com/citations?user=KRX0xecAAAAJ&hl=en){:target="_blank" rel="noopener noreferrer"} // [Repec](https://ideas.repec.org/f/pko790.html){:target="_blank" rel="noopener noreferrer"} // [St. Louis Fed page](https://research.stlouisfed.org/econ/kozlowski/){:target="_blank" rel="noopener noreferrer"}
+[*Curriculum Vitae* (updated June 2026)](/papers/Kozlowski_cv.pdf){:target="_blank" rel="noopener noreferrer"} // [ORCID](https://orcid.org/0000-0001-8464-2470){:target="_blank" rel="noopener noreferrer"} // [Google scholar](https://scholar.google.com/citations?user=KRX0xecAAAAJ&hl=en){:target="_blank" rel="noopener noreferrer"} // [Repec](https://ideas.repec.org/f/pko790.html){:target="_blank" rel="noopener noreferrer"} // [St. Louis Fed page](https://research.stlouisfed.org/econ/kozlowski/){:target="_blank" rel="noopener noreferrer"}
