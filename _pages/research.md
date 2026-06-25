@@ -44,7 +44,7 @@ December 2025<br>
 ---
 ## Work in Progress <a name="wip"></a>
 
-5. **Inequality Dynamics: A Life-Cycle Portfolio Model Perspective**<br>
+5. **Heterogeneous Returns and Portfolio Composition: A Life-Cycle Model Meets U.S. Data**<br>
 with Diego Daruich
 
 ---
