@@ -29,10 +29,10 @@ November 2024<br>
 
 3. **The Cost of Capital and Misallocation in the United States**<br>
 with Miguel Faria-e-Castro and Jeremy Majerovitz<br>
-June 2025<br>
+July 2026<br>
 [Working paper](https://doi.org/10.20955/wp.2025.013){:target="_blank" rel="noopener noreferrer"}
 
-    > Firm-level borrowing cost dispersion modestly distorts capital allocation in normal times but significantly amplifies misallocation during crises.
+    > We propose a framework to estimate capital misallocation using credit registry data and apply it to the United States. We find substantial heterogeneity in the cost of capital but modest aggregate losses in normal times: reallocating capital across firms would raise output by about 0.7%. These losses more than doubled during 2020–2021, rising to 1.6%.
 
 4. **An Empirical Analysis of the Cost of Borrowing**<br>
 with Miguel Faria-e-Castro and Samuel Jordan-Wood<br>
