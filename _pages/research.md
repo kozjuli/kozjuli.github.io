@@ -11,11 +11,11 @@ layout: splash
 
 ## Working Papers <a name="wp"></a>
 
-1. **Liquidity and Investment in General Equilibrium**<br>
+1. **Time-Consistent Agents, Time-Inconsistent Firms: Investment in Heterogeneous-Agent Economies**<br>
 with Nicolas Caramp and Keisuke Teeple<br>
 *Revise and Resubmit, Review of Economic Studies*<br>
-June 2024<br>
-[Working paper](https://doi.org/10.20955/wp.2022.022){:target="_blank" rel="noopener noreferrer"}
+October 2026<br>
+[Working paper](/papers/CKT_20261004.pdf){:target="_blank" rel="noopener noreferrer"} supersedes **Liquidity and Investment in General Equilibrium**
 
     > This paper studies the implications of trading frictions in financial markets for firms' investment and dividend choices and their aggregate consequences.
 
