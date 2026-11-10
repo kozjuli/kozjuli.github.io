@@ -107,14 +107,17 @@ with Emilio Espino and Juan Sanchez, *Journal of Economic Theory 2018, vol. 176*
 ---
 ## Other publications <a name="other"></a>
 
-16. **The Dynamics of Long-Run Inflation Expectations: A Market-Based Perspective**
-with Anna Cole and Joseph Martorana. *Federal Reserve Bank of St. Louis Review, Third Quarter 2025* [Working paper](https://doi.org/10.20955/wp.2025.015){:target="_blank" rel="noopener noreferrer"}
+16. **Financing Artificial Intelligence: Cash, Debt, and Corporate Investment**
+with Masataka Mori, Juan M. Sanchez, Nicholas Sullivan. *Federal Reserve Bank of St. Louis Review, Fourth Quarter 2026* [Publication](https://doi.org/10/20955/r.2026.13){:target="_blank" rel="noopener noreferrer"}
 
-17. **External Shocks versus Domestic Policies in Emerging Markets**
-with Emilio Espino, Fernando M. Martin and Juan M. Sanchez. *Federal Reserve Bank of St. Louis Review, Second Quarter 2023* [Working paper](https://doi.org/10.20955/r.105.108-121){:target="_blank" rel="noopener noreferrer"}, [Publication](https://doi.org/10.20955/r.105.108-121){:target="_blank" rel="noopener noreferrer"}
+17. **The Dynamics of Long-Run Inflation Expectations: A Market-Based Perspective**
+with Anna Cole and Joseph Martorana. *Federal Reserve Bank of St. Louis Review, Third Quarter 2025* [Publication](https://doi.org/10.20955/wp.2025.015){:target="_blank" rel="noopener noreferrer"}
 
-18. **Stylized Facts on the Organization of Small Business Partnerships**
-with Emilio Espino and Juan M. Sanchez. *Federal Reserve Bank of St. Louis Review, Fourth Quarter 2016* [Working paper](https://doi.org/10.20955/r.2016.297-310){:target="_blank" rel="noopener noreferrer"}, [Publication](https://doi.org/10.20955/r.2016.297-310){:target="_blank" rel="noopener noreferrer"}
+18. **External Shocks versus Domestic Policies in Emerging Markets**
+with Emilio Espino, Fernando M. Martin and Juan M. Sanchez. *Federal Reserve Bank of St. Louis Review, Second Quarter 2023* [Publication](https://doi.org/10.20955/r.105.108-121){:target="_blank" rel="noopener noreferrer"}
+
+19. **Stylized Facts on the Organization of Small Business Partnerships**
+with Emilio Espino and Juan M. Sanchez. *Federal Reserve Bank of St. Louis Review, Fourth Quarter 2016* [Publication](https://doi.org/10.20955/r.2016.297-310){:target="_blank" rel="noopener noreferrer"}
 
 
  ---
