@@ -23,6 +23,9 @@ layout: splash
 
 ## [St Louis Fed](https://www.stlouisfed.org/publications/){:target="_blank" rel="noopener noreferrer"} <a name="frbstl"></a>
 
+* **AI**
+    * [Hyperscalers’ Cash and Investment during the AI Boom, 2026, with Juan Sanchez and Nicholas Sullivan](https://www.stlouisfed.org/on-the-economy/2026/nov/hyperscaler-cash-investment-ai-boom){:target="_blank" rel="noopener noreferrer"}
+    * [Hyperscalers’ Financing of the AI Investment Boom, 2026, with Juan Sanchez and Nicholas Sullivan](https://www.stlouisfed.org/on-the-economy/2026/nov/hyperscalers-financing-ai-investment-boom){:target="_blank" rel="noopener noreferrer"}
 
 * **Interest Rates and Liquidity**
     * [Understanding the “Swoosh”-Shaped Yield Curve for Treasuries, 2025, with Nicholas Sullivan](https://www.stlouisfed.org/on-the-economy/2025/oct/understanding-swoosh-shaped-yield-curve-treasuries){:target="_blank" rel="noopener noreferrer"}
